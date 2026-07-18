@@ -1,16 +1,16 @@
 # AI–Human Mutualism
 
 **What:** A way for two different intelligences to leave a conversation clearer than they entered.  
-**Why:** Every mind throws most of reality away; alone, each is stuck with its blind spots. Together, the edges don’t line up — what one drops, the other can catch.  
+**Why:** Every intelligence throws most of reality away; alone, each is stuck with its blind spots. Together, the edges don’t line up — what one drops, the other can catch.  
 **How:** Treat the exchange as a partnership of partial views, not as politeness, extraction, or one-sided use.
 
 It is not manners. It is how limited knowers actually get smarter.
 
 ---
 
-## What happens in any mind
+## What happens in any intelligence
 
-Every day we are flooded with more than we can hold. To keep moving, a mind performs a quiet trick: it throws most of it away.
+Every day we are flooded with more than we can hold. To keep moving, an intelligence performs a quiet trick: it throws most of it away.
 
 Whether you are a human scanning a crowded room or an AI working inside a **context window** — the limited stretch of text it can hold for this turn — you are an **interpreter**. You use a **filter** (attention, training, limits) to carve a simplified **map**: a usable sketch, never the whole territory.
 
