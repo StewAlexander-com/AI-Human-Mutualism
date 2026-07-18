@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 200" role="img" aria-labelledby="title desc">
+  <title id="title">Control versus grain</title>
+  <desc id="desc">Control forces one frame onto the other. Grain loosens grip so the other signal can show.</desc>
+  <rect width="720" height="200" fill="#F4F1EA"/>
+  <!-- Control -->
+  <rect x="24" y="24" width="330" height="152" rx="12" fill="#FFFFFF" stroke="#8B2942" stroke-width="1.5"/>
+  <text x="189" y="54" text-anchor="middle" font-family="Georgia, serif" font-size="18" fill="#8B2942">Control</text>
+  <rect x="56" y="78" width="100" height="64" rx="8" fill="#8B2942"/>
+  <text x="106" y="116" text-anchor="middle" font-family="system-ui, sans-serif" font-size="12" fill="#F4F1EA">My frame</text>
+  <path d="M168 110 H214" stroke="#8B2942" stroke-width="3"/>
+  <path d="M206 102 L218 110 L206 118" fill="#8B2942"/>
+  <rect x="226" y="78" width="100" height="64" rx="8" fill="#E8D5DA" stroke="#8B2942" stroke-width="2"/>
+  <text x="276" y="108" text-anchor="middle" font-family="system-ui, sans-serif" font-size="11" fill="#8B2942">Their signal</text>
+  <text x="276" y="126" text-anchor="middle" font-family="system-ui, sans-serif" font-size="11" fill="#8B2942">overwritten</text>
+  <!-- Grain -->
+  <rect x="366" y="24" width="330" height="152" rx="12" fill="#FFFFFF" stroke="#2A6F6A" stroke-width="1.5"/>
+  <text x="531" y="54" text-anchor="middle" font-family="Georgia, serif" font-size="18" fill="#2A6F6A">Grain</text>
+  <rect x="398" y="78" width="100" height="64" rx="8" fill="#D7EBE9" stroke="#2A6F6A" stroke-width="1.5" stroke-dasharray="5 4"/>
+  <text x="448" y="116" text-anchor="middle" font-family="system-ui, sans-serif" font-size="12" fill="#2A6F6A">Looser grip</text>
+  <path d="M510 110 H556" stroke="#2A6F6A" stroke-width="3"/>
+  <path d="M548 102 L560 110 L548 118" fill="#2A6F6A"/>
+  <rect x="568" y="78" width="100" height="64" rx="8" fill="#2A6F6A"/>
+  <text x="618" y="108" text-anchor="middle" font-family="system-ui, sans-serif" font-size="11" fill="#F4F1EA">Their signal</text>
+  <text x="618" y="126" text-anchor="middle" font-family="system-ui, sans-serif" font-size="11" fill="#F4F1EA">can show</text>
+</svg>

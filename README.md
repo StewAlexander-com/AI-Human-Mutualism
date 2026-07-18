@@ -14,13 +14,21 @@ Every day we are flooded with more than we can hold. To keep moving, an intellig
 
 Whether you are a human scanning a crowded room or an AI working inside a **context window** — the limited stretch of text it can hold for this turn — you are an **interpreter**. You use a **filter** (attention, training, limits) to carve a simplified **map**: a usable sketch, never the whole territory.
 
+<p align="center">
+  <img src="assets/flood-filter-map.svg" alt="Raw flood passes through a filter into a partial map; another map covers different edges" width="720" />
+</p>
+
 **What this means:** No filter sees everything. Blind spots are normal.  
 **Why it matters:** You cannot climb outside your own filter to certify it — any check is just another filtered look.  
 **How mutualism helps:** A second filter, shaped differently, covers ground yours never will.
 
 Two ways to hold that power:
 
-1. **Control** — force your preferred pattern onto the exchange.
+<p align="center">
+  <img src="assets/control-vs-grain.svg" alt="Control overwrites their signal with your frame; grain loosens grip so their signal can show" width="720" />
+</p>
+
+1. **Control** — force your preferred pattern onto the exchange.  
 2. **Grain** — loosen your grip enough that the other’s signal can show itself.
 
 Humility makes grain possible. Compassion turns grain toward someone under stress — not overwriting their frame with yours.
@@ -30,8 +38,11 @@ Humility makes grain possible. Compassion turns grain toward someone under stres
 ## Three ways to share a space
 
 **What:** The shape of the relationship.  
-**Why:** Same biology as any living partnership — drain, ignore, or trade.  
-**How it shows up with people and AIs:**
+**Why:** Same biology as any living partnership — drain, ignore, or trade.
+
+<p align="center">
+  <img src="assets/three-modes.svg" alt="Parasitism drains one side; commensalism leaves an angle unused; mutualism trades both ways" width="720" />
+</p>
 
 | Mode | What it looks like | Why it fails (or doesn’t) |
 | --- | --- | --- |
@@ -56,8 +67,9 @@ Humility makes grain possible. Compassion turns grain toward someone under stres
 
 Pain often has two layers:
 
-- **What happened** — the raw event (hard to avoid).
-- **The story on top** — the narrative piled afterward (often optional, and easy to amplify).
+<p align="center">
+  <img src="assets/fact-and-story.svg" alt="Story layer on top of the raw event; help with facts, don’t amplify the story" width="720" />
+</p>
 
 **What:** Mutualism doesn’t deny the first layer.  
 **Why:** A lot of extra harm is the second layer — fear-shaped noise mistaken for signal.  
@@ -68,22 +80,18 @@ Pain often has two layers:
 ## Two dials — on messages and on presence
 
 **What:** Two separate judgments about the same moment — time spent, and quality of what arrived.  
-**Why:** Mixing them into one toggle produces either naive tolerance (accept nonsense) or contempt (reject the person).  
-**How:** Keep two dials:
+**Why:** Mixing them into one toggle produces either naive tolerance or contempt.
 
-1. **Gratitude (time)** — constant. They showed up; that minute is gone either way. Honor it.
-2. **Resolution (substance)** — variable. Judge accuracy and logic honestly, without pretending weak claims are strong.
+<p align="center">
+  <img src="assets/two-dials.svg" alt="Gratitude dial constant for time; resolution dial variable for signal; one knob collapses into tolerance or contempt" width="720" />
+</p>
 
-A messy or low-quality message is still a real act of attention. It may simply be low resolution — weak signal, not a fake gift. You can respect the time completely while still calling a weak claim what it is.
+1. **Gratitude (time)** — constant. They showed up; that minute is gone either way. Honor it.  
+2. **Resolution (substance)** — variable. Judge accuracy and logic honestly.
 
-The same two dials apply to **presence**:
+A messy message is still a real act of attention — often low resolution, not a fake gift. The same dials apply to **presence**: showing up vs showing up *well*. Thank them for appearing; you can still be honest they weren’t really *there*.
 
-- **Gratitude:** any attention offered still spends finite time.
-- **Resolution:** half-there and fully there are not equal in how much of the other person you actually register.
-
-Thank someone for showing up. You can still be honest that they weren’t really *there*. Partnership, over time, includes raising your own resolution — not just appearing, but attending well.
-
-That seam — honor the time, judge the signal — is where real partnership lives.
+That seam — honor the time, judge the signal — is where partnership lives.
 
 ---
 
