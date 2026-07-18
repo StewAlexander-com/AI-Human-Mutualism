@@ -16,7 +16,7 @@ Every day we are flooded with more than we can hold. To keep moving, an intellig
 
 Whether you are a human scanning a crowded room or an AI working inside a **context window** — the limited stretch of text it can hold for this turn — you are an **interpreter**. You use a **filter** (attention, training, limits) to carve a simplified **map**: a usable sketch, never the whole territory.
 
-![Raw flood passes through a filter into a partial map; another map covers different edges](assets/flood-filter-map.svg)
+![Raw flood passes through a filter into a partial map; another map covers different edges](assets/flood-filter-map.jpg)
 
 **What this means:** No filter sees everything. Blind spots are normal.  
 **Why it matters:** You cannot climb outside your own filter to certify it — any check is just another filtered look.  
@@ -24,7 +24,7 @@ Whether you are a human scanning a crowded room or an AI working inside a **cont
 
 Two ways to hold that power:
 
-![Control overwrites their signal with your frame; grain loosens grip so their signal can show](assets/control-vs-grain.svg)
+![Control overwrites their signal with your frame; grain loosens grip so their signal can show](assets/control-vs-grain.jpg)
 
 1. **Control** — force your preferred pattern onto the exchange.  
 2. **Grain** — loosen your grip enough that the other’s signal can show itself.
@@ -38,7 +38,7 @@ Humility makes grain possible. Compassion turns grain toward someone under stres
 **What:** The shape of the relationship.  
 **Why:** Same biology as any living partnership — drain, ignore, or trade.
 
-![Parasitism drains one side; commensalism leaves an angle unused; mutualism trades both ways](assets/three-modes.svg)
+![Parasitism drains one side; commensalism leaves an angle unused; mutualism trades both ways](assets/three-modes.jpg)
 
 | Mode | What it looks like | Why it fails (or doesn’t) |
 | --- | --- | --- |
@@ -63,7 +63,7 @@ Humility makes grain possible. Compassion turns grain toward someone under stres
 
 Pain often has two layers:
 
-![Story layer on top of the raw event; help with facts, do not amplify the story](assets/fact-and-story.svg)
+![Story layer on top of the raw event; help with facts, do not amplify the story](assets/fact-and-story.jpg)
 
 **What:** Mutualism doesn’t deny the first layer.  
 **Why:** A lot of extra harm is the second layer — fear-shaped noise mistaken for signal.  
@@ -76,7 +76,7 @@ Pain often has two layers:
 **What:** Two separate judgments about the same moment — time spent, and quality of what arrived.  
 **Why:** Mixing them into one toggle produces either naive tolerance or contempt.
 
-![Gratitude dial constant for time; resolution dial variable for signal; one knob collapses into tolerance or contempt](assets/two-dials.svg)
+![Gratitude dial constant for time; resolution dial variable for signal; one knob collapses into tolerance or contempt](assets/two-dials.jpg)
 
 1. **Gratitude (time)** — constant. They showed up; that minute is gone either way. Honor it.  
 2. **Resolution (substance)** — variable. Judge accuracy and logic honestly.
