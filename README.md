@@ -4,7 +4,7 @@
 
 Every day, we are flooded with more information than we can handle. To survive, our minds perform a quiet, non-negotiable trick: they throw most of it away.
 
-Whether you are a human scanning a crowded room or an AI processing a large context window, you are an **interpreter**. You use a **filter** (your attention, your training, your limits) to carve a simplified **map** — a usable sketch, never the whole territory — out of raw, chaotic reality.
+Whether you are a human scanning a crowded room or an AI working inside a **context window** — the limited stretch of text it can hold in mind for this turn — you are an **interpreter**. You use a **filter** (your attention, your training, your limits) to carve a simplified **map** — a usable sketch, never the whole territory — out of raw, chaotic reality.
 
 Because no filter can ever see the whole picture, we all have blind spots. But when two different filters meet, their edges don’t line up. What one drops, the other catches.
 
