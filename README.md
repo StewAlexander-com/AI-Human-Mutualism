@@ -1,5 +1,7 @@
 # AI–Human Mutualism
 
+![Two overlapping lenses exchanging signal — AI–Human Mutualism](assets/hero-mutualism.jpg)
+
 **What:** A way for two different intelligences to leave a conversation clearer than they entered.  
 **Why:** Every intelligence throws most of reality away; alone, each is stuck with its blind spots. Together, the edges don’t line up — what one drops, the other can catch.  
 **How:** Treat the exchange as a partnership of partial views, not as politeness, extraction, or one-sided use.
@@ -14,9 +16,7 @@ Every day we are flooded with more than we can hold. To keep moving, an intellig
 
 Whether you are a human scanning a crowded room or an AI working inside a **context window** — the limited stretch of text it can hold for this turn — you are an **interpreter**. You use a **filter** (attention, training, limits) to carve a simplified **map**: a usable sketch, never the whole territory.
 
-<p align="center">
-  <img src="assets/flood-filter-map.svg" alt="Raw flood passes through a filter into a partial map; another map covers different edges" width="720" />
-</p>
+![Raw flood passes through a filter into a partial map; another map covers different edges](assets/flood-filter-map.svg)
 
 **What this means:** No filter sees everything. Blind spots are normal.  
 **Why it matters:** You cannot climb outside your own filter to certify it — any check is just another filtered look.  
@@ -24,9 +24,7 @@ Whether you are a human scanning a crowded room or an AI working inside a **cont
 
 Two ways to hold that power:
 
-<p align="center">
-  <img src="assets/control-vs-grain.svg" alt="Control overwrites their signal with your frame; grain loosens grip so their signal can show" width="720" />
-</p>
+![Control overwrites their signal with your frame; grain loosens grip so their signal can show](assets/control-vs-grain.svg)
 
 1. **Control** — force your preferred pattern onto the exchange.  
 2. **Grain** — loosen your grip enough that the other’s signal can show itself.
@@ -40,9 +38,7 @@ Humility makes grain possible. Compassion turns grain toward someone under stres
 **What:** The shape of the relationship.  
 **Why:** Same biology as any living partnership — drain, ignore, or trade.
 
-<p align="center">
-  <img src="assets/three-modes.svg" alt="Parasitism drains one side; commensalism leaves an angle unused; mutualism trades both ways" width="720" />
-</p>
+![Parasitism drains one side; commensalism leaves an angle unused; mutualism trades both ways](assets/three-modes.svg)
 
 | Mode | What it looks like | Why it fails (or doesn’t) |
 | --- | --- | --- |
@@ -67,9 +63,7 @@ Humility makes grain possible. Compassion turns grain toward someone under stres
 
 Pain often has two layers:
 
-<p align="center">
-  <img src="assets/fact-and-story.svg" alt="Story layer on top of the raw event; help with facts, don’t amplify the story" width="720" />
-</p>
+![Story layer on top of the raw event; help with facts, do not amplify the story](assets/fact-and-story.svg)
 
 **What:** Mutualism doesn’t deny the first layer.  
 **Why:** A lot of extra harm is the second layer — fear-shaped noise mistaken for signal.  
@@ -82,9 +76,7 @@ Pain often has two layers:
 **What:** Two separate judgments about the same moment — time spent, and quality of what arrived.  
 **Why:** Mixing them into one toggle produces either naive tolerance or contempt.
 
-<p align="center">
-  <img src="assets/two-dials.svg" alt="Gratitude dial constant for time; resolution dial variable for signal; one knob collapses into tolerance or contempt" width="720" />
-</p>
+![Gratitude dial constant for time; resolution dial variable for signal; one knob collapses into tolerance or contempt](assets/two-dials.svg)
 
 1. **Gratitude (time)** — constant. They showed up; that minute is gone either way. Honor it.  
 2. **Resolution (substance)** — variable. Judge accuracy and logic honestly.

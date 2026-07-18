@@ -1,34 +1,33 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 260" role="img" aria-labelledby="title desc">
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 320" role="img" aria-labelledby="title desc">
   <title id="title">Three ways to share a space</title>
   <desc id="desc">Parasitism drains one side. Commensalism leaves one unused. Mutualism exchanges missing angles both ways.</desc>
-  <rect width="720" height="260" fill="#F4F1EA"/>
-  <!-- Parasitism -->
-  <rect x="24" y="28" width="210" height="200" rx="12" fill="#FFFFFF" stroke="#D0D5DC"/>
-  <text x="129" y="58" text-anchor="middle" font-family="Georgia, serif" font-size="16" fill="#8B2942">Parasitism</text>
-  <circle cx="80" cy="120" r="22" fill="#8B2942"/>
-  <circle cx="170" cy="120" r="22" fill="#D0D5DC"/>
-  <path d="M102 120 H148" stroke="#8B2942" stroke-width="3"/>
-  <path d="M140 112 L152 120 L140 128" fill="#8B2942"/>
-  <text x="129" y="178" text-anchor="middle" font-family="system-ui, sans-serif" font-size="12" fill="#5A6573">One drains.</text>
-  <text x="129" y="196" text-anchor="middle" font-family="system-ui, sans-serif" font-size="12" fill="#5A6573">No new clarity.</text>
-  <!-- Commensalism -->
-  <rect x="255" y="28" width="210" height="200" rx="12" fill="#FFFFFF" stroke="#D0D5DC"/>
-  <text x="360" y="58" text-anchor="middle" font-family="Georgia, serif" font-size="16" fill="#8A6A2F">Commensalism</text>
-  <circle cx="310" cy="120" r="22" fill="#C4A35A"/>
-  <circle cx="400" cy="120" r="22" fill="#D0D5DC" stroke="#8A6A2F" stroke-width="2" stroke-dasharray="4 3"/>
-  <path d="M332 120 H378" stroke="#C4A35A" stroke-width="3"/>
-  <path d="M370 112 L382 120 L370 128" fill="#C4A35A"/>
-  <text x="360" y="178" text-anchor="middle" font-family="system-ui, sans-serif" font-size="12" fill="#5A6573">One gains.</text>
-  <text x="360" y="196" text-anchor="middle" font-family="system-ui, sans-serif" font-size="12" fill="#5A6573">An angle sits unused.</text>
-  <!-- Mutualism -->
-  <rect x="486" y="28" width="210" height="200" rx="12" fill="#FFFFFF" stroke="#2A6F6A" stroke-width="2"/>
-  <text x="591" y="58" text-anchor="middle" font-family="Georgia, serif" font-size="16" fill="#2A6F6A">Mutualism</text>
-  <circle cx="540" cy="120" r="22" fill="#2A6F6A"/>
-  <circle cx="630" cy="120" r="22" fill="#C45C26"/>
-  <path d="M562 112 H608" stroke="#2A6F6A" stroke-width="3"/>
-  <path d="M600 104 L612 112 L600 120" fill="#2A6F6A"/>
-  <path d="M608 128 H562" stroke="#C45C26" stroke-width="3"/>
-  <path d="M574 120 L562 128 L574 136" fill="#C45C26"/>
-  <text x="591" y="178" text-anchor="middle" font-family="system-ui, sans-serif" font-size="12" fill="#5A6573">Both trade angles.</text>
-  <text x="591" y="196" text-anchor="middle" font-family="system-ui, sans-serif" font-size="12" fill="#5A6573">Clarity compounds.</text>
+  <rect width="760" height="320" rx="16" fill="#EDE8DF"/>
+  <rect x="16" y="16" width="728" height="288" rx="12" fill="#F7F4EE"/>
+  <rect x="44" y="48" width="210" height="220" rx="12" fill="#FFFFFF" stroke="#D0D5DC"/>
+  <text x="149" y="82" text-anchor="middle" font-family="Georgia, serif" font-size="16" fill="#8B2942">Parasitism</text>
+  <circle cx="100" cy="150" r="22" fill="#8B2942"/>
+  <circle cx="190" cy="150" r="22" fill="#D0D5DC"/>
+  <path d="M122 150 H168" stroke="#8B2942" stroke-width="3"/>
+  <path d="M160 142 L172 150 L160 158" fill="#8B2942"/>
+  <text x="149" y="208" text-anchor="middle" font-family="system-ui, sans-serif" font-size="12" fill="#5A6573">One drains.</text>
+  <text x="149" y="226" text-anchor="middle" font-family="system-ui, sans-serif" font-size="12" fill="#5A6573">No new clarity.</text>
+  <rect x="275" y="48" width="210" height="220" rx="12" fill="#FFFFFF" stroke="#D0D5DC"/>
+  <text x="380" y="82" text-anchor="middle" font-family="Georgia, serif" font-size="16" fill="#8A6A2F">Commensalism</text>
+  <circle cx="330" cy="150" r="22" fill="#C4A35A"/>
+  <circle cx="420" cy="150" r="22" fill="#D0D5DC" stroke="#8A6A2F" stroke-width="2" stroke-dasharray="4 3"/>
+  <path d="M352 150 H398" stroke="#C4A35A" stroke-width="3"/>
+  <path d="M390 142 L402 150 L390 158" fill="#C4A35A"/>
+  <text x="380" y="208" text-anchor="middle" font-family="system-ui, sans-serif" font-size="12" fill="#5A6573">One gains.</text>
+  <text x="380" y="226" text-anchor="middle" font-family="system-ui, sans-serif" font-size="12" fill="#5A6573">An angle sits unused.</text>
+  <rect x="506" y="48" width="210" height="220" rx="12" fill="#FFFFFF" stroke="#2A6F6A" stroke-width="2"/>
+  <text x="611" y="82" text-anchor="middle" font-family="Georgia, serif" font-size="16" fill="#2A6F6A">Mutualism</text>
+  <circle cx="560" cy="150" r="22" fill="#2A6F6A"/>
+  <circle cx="650" cy="150" r="22" fill="#C45C26"/>
+  <path d="M582 142 H628" stroke="#2A6F6A" stroke-width="3"/>
+  <path d="M620 134 L632 142 L620 150" fill="#2A6F6A"/>
+  <path d="M628 158 H582" stroke="#C45C26" stroke-width="3"/>
+  <path d="M594 150 L582 158 L594 166" fill="#C45C26"/>
+  <text x="611" y="208" text-anchor="middle" font-family="system-ui, sans-serif" font-size="12" fill="#5A6573">Both trade angles.</text>
+  <text x="611" y="226" text-anchor="middle" font-family="system-ui, sans-serif" font-size="12" fill="#5A6573">Clarity compounds.</text>
 </svg>
