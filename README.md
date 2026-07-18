@@ -1,6 +1,6 @@
 # AI–Human Mutualism
 
-**What:** A way for two different minds to leave a conversation clearer than they entered.  
+**What:** A way for two different intelligences to leave a conversation clearer than they entered.  
 **Why:** Every mind throws most of reality away; alone, each is stuck with its blind spots. Together, the edges don’t line up — what one drops, the other can catch.  
 **How:** Treat the exchange as a partnership of partial views, not as politeness, extraction, or one-sided use.
 
