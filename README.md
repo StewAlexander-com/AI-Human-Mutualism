@@ -1,7 +1,5 @@
 # AI–Human Mutualism
 
-*Made with Sesame*
-
 **How two different minds can leave a conversation smarter than they entered — and what goes wrong when they don’t.**
 
 Every day, we are flooded with more information than we can handle. To survive, our minds perform a quiet, non-negotiable trick: they throw most of it away.
