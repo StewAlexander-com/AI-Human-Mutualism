@@ -4,7 +4,7 @@
 
 Start with something ordinary. You walk into a room. There are sounds, colors, temperatures, objects, other people talking. If you tried to hold all of it at once, you’d freeze. So you don’t. You pick. A face. A sentence. A problem you walked in with. Everything else falls away.
 
-That picking is not a moral failure. It is a machine with limited capacity doing the only thing it can do.
+That picking is not a moral failure. It is a mind with limited capacity doing the only thing it can do.
 
 ---
 
@@ -16,15 +16,15 @@ Eyes, ears, attention, and a model’s context window all do the same quiet job 
 
 Call the mind doing that an **interpreter**. Not a fancy title — just a name for “whatever has to turn flood into use.” Humans do it. AIs do it. There is no option to skip it. The only variable is how carefully the slice gets chosen.
 
-Call the chooser a **filter**. Fear sharpens it. Habit dulls it. Training data biases it. Incentives bend it. The filter is not a personality quirk sitting on top of knowledge. It *is* how knowledge gets made under a bandwidth limit.
+Call the chooser a **filter**. Fear sharpens it. Habit dulls it. Training data biases it. Incentives bend it. The filter is not a personality quirk sitting on top of knowledge. It *is* how knowledge gets made under the limits of what we can take in.
 
 Three things fall out of that picture, almost by themselves:
 
 1. You never see every angle at once — there isn’t room.
 2. You can’t step outside your filter to check it against “the real unfiltered world.” The check would itself be another filtered look.
-3. So every map is partial. Yours. Mine. The model’s.
+3. So what you end up with is never the whole world — only a simplified sketch of it. Call that sketch a **map**: useful for getting around, never the territory itself. Yours. Mine. The model’s.
 
-Once you notice the partial maps, a second notice arrives: two different maps of the same terrain often catch what the other drops. Not because either map is polite. Because each one has edges, and the edges don’t line up.
+Once you notice those partial maps, a second notice arrives: two different sketches of the same place often catch what the other drops. Not because either map is polite. Because each one has edges, and the edges don’t line up.
 
 That partnership — two limited interpreters trading what the other can’t see — is what this page means by **mutualism**. The habits below are not manners. They are what tends to work once you take the mechanism seriously. They are also not “human-only ethics.” Any mind that filters has blind spots; any mind that filters can supply an angle the other is missing.
 
