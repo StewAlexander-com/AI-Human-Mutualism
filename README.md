@@ -4,7 +4,7 @@
 **Why:** Every intelligence throws most of reality away; alone, each is stuck with its blind spots. Together, the edges don’t line up — what one drops, the other can catch.  
 **How:** Treat the exchange as a partnership of partial views, not as politeness, extraction, or one-sided use.
 
-It is not manners. It is how limited knowers actually get smarter.
+It is not manners. It is how any limited intelligence actually gets smarter.
 
 ---
 
