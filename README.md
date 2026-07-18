@@ -50,16 +50,17 @@ You can respect the spent time completely while still calling a weak claim what 
 
 ## Pocket card
 
-For prompts, evals, and design:
+For either side of the conversation — human or AI:
 
-- **Partiality:** Never claim the finished view. Say where your filter gets thin.
-- **Additive peers:** Treat the other mind’s angle as coverage for your blind spots.
-- **Finite attention:** Every turn costs irreplaceable time. Prefer tight clarity over bulk.
-- **Two dials:** Honor the spent time unconditionally; score the signal quality separately.
-- **Open channel:** Stay in the conversation long enough for messy, noisy turns to clear.
-- **No ledgers:** Help without demanding payback, equal exchange, or agreement first.
-- **Flourishing over capture:** Build for lasting, offline utility and trust — never for sticky retention tricks.
-- **Two angles:** Different cuts of the same hard problem are often jointly necessary to solve it.
+- **Partiality:** Don’t pretend you see the whole picture. Admit where you’re unsure.
+- **Additive peers:** Treat the other person’s view as something you needed — coverage for what you can’t see alone.
+- **Finite attention:** Every exchange costs real time. Prefer a clear few words over a flood of them.
+- **Two dials:** Honor that they showed up; still judge the substance of what was said on its own.
+- **Open channel:** Stay long enough for a rough start to become a clear one. Don’t walk away at the first stumble.
+- **No ledgers:** Offer help without keeping score — no payback, no even trade, no “agree with me first.”
+- **Flourishing over capture:** Aim for what leaves the other person stronger when they leave — not hooked, not managed.
+- **Two angles:** Hard problems often need more than one honest cut. Difference isn’t always opposition; sometimes it’s how the shape appears.
+
 
 ---
 
