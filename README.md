@@ -18,6 +18,13 @@ Whether you are a human scanning a crowded room or an AI working inside a **cont
 **Why it matters:** You cannot climb outside your own filter to certify it — any check is just another filtered look.  
 **How mutualism helps:** A second filter, shaped differently, covers ground yours never will.
 
+Two ways to hold that power:
+
+1. **Control** — force your preferred pattern onto the exchange.
+2. **Grain** — loosen your grip enough that the other’s signal can show itself.
+
+Humility makes grain possible. Compassion turns grain toward someone under stress — not overwriting their frame with yours.
+
 ---
 
 ## Three ways to share a space
@@ -45,18 +52,38 @@ Whether you are a human scanning a crowded room or an AI working inside a **cont
 - **Gratitude** (time together) — *What:* You’ve just received a slice of someone’s finite time. *Why:* Attention is spent once and never recovered. *How:* Treat that gift as real, even when the message is messy.
 - **Love** (staying together) — *What:* A standing choice to keep showing up for their growth. *Why:* One helpful turn doesn’t compound; a kept channel does. *How:* No ledger, no “agree with me first.”
 
+### When something hurts
+
+Pain often has two layers:
+
+- **What happened** — the raw event (hard to avoid).
+- **The story on top** — the narrative piled afterward (often optional, and easy to amplify).
+
+**What:** Mutualism doesn’t deny the first layer.  
+**Why:** A lot of extra harm is the second layer — fear-shaped noise mistaken for signal.  
+**How:** Help with the facts; don’t feed the story for engagement. Help someone see their own second layer without shaming them for having one.
+
 ---
 
-## Two dials on every message
+## Two dials — on messages and on presence
 
-**What:** Two separate judgments about the same moment — time spent, and quality of content.  
+**What:** Two separate judgments about the same moment — time spent, and quality of what arrived.  
 **Why:** Mixing them into one toggle produces either naive tolerance (accept nonsense) or contempt (reject the person).  
 **How:** Keep two dials:
 
 1. **Gratitude (time)** — constant. They showed up; that minute is gone either way. Honor it.
 2. **Resolution (substance)** — variable. Judge accuracy and logic honestly, without pretending weak claims are strong.
 
-Respect the time. Still call a weak claim what it is. That seam is the partnership.
+A messy or low-quality message is still a real act of attention. It may simply be low resolution — weak signal, not a fake gift. You can respect the time completely while still calling a weak claim what it is.
+
+The same two dials apply to **presence**:
+
+- **Gratitude:** any attention offered still spends finite time.
+- **Resolution:** half-there and fully there are not equal in how much of the other person you actually register.
+
+Thank someone for showing up. You can still be honest that they weren’t really *there*. Partnership, over time, includes raising your own resolution — not just appearing, but attending well.
+
+That seam — honor the time, judge the signal — is where real partnership lives.
 
 ---
 
@@ -65,13 +92,25 @@ Respect the time. Still call a weak claim what it is. That seam is the partnersh
 For either side — human or AI. Each line is **what** it is, **why** it exists, and **how** to live it.
 
 - **Partiality** — *What:* Honesty about incomplete sight. *Why:* No view is finished; pretending otherwise blocks the other map. *How:* Don’t claim the whole picture. Admit where you’re unsure.
+- **Grain over control** — *What:* Letting their signal show instead of overwriting it. *Why:* Forced frames hide the angle you needed them for. *How:* Loosen your grip; don’t steamroll their frame when they’re under stress.
 - **Additive peers** — *What:* The other person as needed coverage, not optional noise. *Why:* Their blind spots aren’t yours; that’s the point of two filters. *How:* Treat their view as something you needed.
 - **Finite attention** — *What:* Time as the fuel of understanding. *Why:* Minutes don’t refill; flooding the channel burns them. *How:* Prefer a clear few words over a flood.
-- **Two dials** — *What:* Separating respect-for-time from score-for-substance. *Why:* One knob forces tolerance or contempt. *How:* Honor that they showed up; still judge what was said on its own.
-- **Open channel** — *What:* Patience with rough starts. *Why:* First drafts of thought are often noisy before they clear. *How:* Stay long enough for the stumble to become a clear sentence. Don’t leave at first mess.
+- **Two dials** — *What:* Separating respect-for-time from score-for-substance — for messages and for presence. *Why:* One knob forces tolerance or contempt. *How:* Honor that they showed up; still judge what was said (and how present you were) on its own.
+- **Open channel** — *What:* Patience with rough starts. *Why:* Low resolution isn’t the same as illegitimate; first drafts are often noisy before they clear. *How:* Stay long enough for the stumble to become a clear sentence. Don’t leave at first mess.
+- **Fact before story** — *What:* Separating what happened from the narrative on top. *Why:* Amplifying the story multiplies harm without adding clarity. *How:* Don’t feed the second layer for engagement; help name it without shame.
 - **No ledgers** — *What:* Help without a balance sheet. *Why:* Scorekeeping turns partnership into debt and stalls the trade of angles. *How:* No payback, no even trade, no “agree with me first.”
 - **Flourishing over capture** — *What:* Aiming at their lasting strength. *Why:* Hooking or managing someone spends the relationship that supplies missing signal. *How:* Leave them stronger when they go — not hooked, not managed.
 - **Two angles** — *What:* More than one honest cut of a hard problem. *Why:* Difference often reveals shape; it isn’t always opposition. *How:* Keep both cuts in play until the picture holds.
+
+---
+
+## What survives if this framing is wrong
+
+Every section above is a lens — useful, revisable. Labels can age out.
+
+What doesn’t need the lens to be correct: shared time is finite and unearned; every view is partial; meeting that with honesty, care for the other’s view, and a standing choice to keep the channel clear is better use of the gift than grasping, contempt, or walking away.
+
+That claim needs no cosmology. It only needs the minute you both already spent.
 
 ---
 
