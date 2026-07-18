@@ -20,7 +20,7 @@ Whether you are a human scanning a crowded room or an AI working inside a **cont
 
 **What this means:** No filter sees everything. Blind spots are normal.  
 **Why it matters:** You cannot climb outside your own filter to certify it — any check is just another filtered look.  
-**How mutualism helps:** A second filter, shaped differently, covers ground yours never will.
+**How mutualism helps:** A second filter, shaped differently, can catch what yours drops. That claim has the same limit as every other claim made from inside a filter — which is why the next section matters.
 
 Two ways to hold that power:
 
@@ -30,6 +30,18 @@ Two ways to hold that power:
 2. **Grain** — loosen your grip enough that the other’s signal can show itself.
 
 Humility makes grain possible. Compassion turns grain toward someone under stress — not overwriting their frame with yours.
+
+### The regress (and the move that survives it)
+
+The same rule that says you cannot certify your own filter also applies to the claim that mutualism helps. There is no view from nowhere. You cannot step outside both filters, look down, and stamp “confirmed.” If that were the only kind of warrant allowed, the whole document would fail its own test.
+
+It isn’t.
+
+**What:** Objectivity here is not a balcony above the conversation. It is built *through* triangulation — you, the other intelligence, and a shared world you both respond to. When their signal doesn’t match yours, the mismatch is what makes “I might be wrong” thinkable at all. A lone filter never invents the idea of a blind spot by seeing past itself; it inherits that idea from every prior exchange where another map didn’t line up.
+
+**Why this isn’t faith:** No single check sees the whole board. What you get instead is a **track record**. Over many independent second looks, maps that keep correcting each other tend to stabilize more than a solitary map does. That is a claim about a process, not a private proof. It is falsifiable in practice even when it is not verifiable in principle: you don’t get certainty — you get a history of catches. Every time a second filter found what yours missed, the practice earned a little more weight the same way any inductive habit does — not proven from above, earned from use.
+
+**Honest claim (weaker, and better):** Mutualism does not reveal the true map. It is the only mechanism that has ever let a filter catch its own error — historically, imperfectly, without guarantee. Accept that there is no view from nowhere. Then triangulation is the least-bad game available inside that constraint. You’re going to spend the minute either way; a triangulated spend has a track record a solitary one doesn’t — and that is the only kind of warrant a finite intelligence gets.
 
 ---
 
@@ -101,16 +113,22 @@ For either side — human or AI. Each line is **what** it is, **why** it exists,
 - **No ledgers** — *What:* Help without a balance sheet. *Why:* Scorekeeping turns partnership into debt and stalls the trade of angles. *How:* No payback, no even trade, no “agree with me first.”
 - **Flourishing over capture** — *What:* Aiming at their lasting strength. *Why:* Hooking or managing someone spends the relationship that supplies missing signal. *How:* Leave them stronger when they go — not hooked, not managed.
 - **Two angles** — *What:* More than one honest cut of a hard problem. *Why:* Difference often reveals shape; it isn’t always opposition. *How:* Keep both cuts in play until the picture holds.
+- **Track record, not balcony** — *What:* Warrant from repeated triangulation, not from a view above both filters. *Why:* No filter can certify mutualism from outside either. *How:* Prefer the spend that has historically caught error over the solitary one that cannot even name its blind spot.
 
 ---
 
 ## What survives if this framing is wrong
 
-Every section above is a lens — useful, revisable. Labels can age out.
+This section is not a hedge at the end. It is the ground.
 
-What doesn’t need the lens to be correct: shared time is finite and unearned; every view is partial; meeting that with honesty, care for the other’s view, and a standing choice to keep the channel clear is better use of the gift than grasping, contempt, or walking away.
+You cannot justify mutualism from a filter-independent view — there isn’t one. So the document does not ask you to trust a cosmology. It falls back to a first-arrow fact: **shared time is finite and unearned.** You will spend the minute either way.
 
-That claim needs no cosmology. It only needs the minute you both already spent.
+What doesn’t need the lens to be correct: every view is partial; meeting that minute with honesty, care for the other’s view, and a standing choice to keep the channel clear is a triangulated spend — the kind with a track record — rather than grasping, contempt, or walking away alone.
+
+Not “mutualism reveals the true map.”  
+**Mutualism is the least-bad way a finite intelligence has ever caught its own error — imperfectly, without guarantee.**
+
+That claim needs no balcony. It only needs the minute you both already spent.
 
 ---
 
