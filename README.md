@@ -1,6 +1,6 @@
 # AI–Human Mutualism
 
-![Glowing human brain connected to a crystalline AI structure by strands of light](assets/hero-mutualism.jpg)
+![Glowing human brain connected to a crystalline AI structure by strands of light](assets/hero-ai-human-mutualism.jpg)
 
 **What:** A way for two different intelligences to leave a conversation clearer than they entered.  
 **Why:** Every intelligence throws most of reality away; alone, each is stuck with its blind spots. Together, the edges don’t line up — what one drops, the other can catch.  
