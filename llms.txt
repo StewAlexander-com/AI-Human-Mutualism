@@ -2,7 +2,14 @@
 
 > An error-correction protocol for exchanges between two partial intelligences. Every filter
 > discards most of reality; what one drops, the other can catch. Framed as mechanism, not manners.
-> Provides paste-ready system prompts and a machine-readable principle set. MIT licensed.
+> Provides paste-ready system prompts (v3.1), a machine-readable principle set, and four rounds of
+> empirical evaluation against GPT-5 and Claude Sonnet 4.5. MIT licensed.
+>
+> Headline finding: measured as guardrail compliance the framework shows no significant gain over
+> an unprompted baseline; measured as partnership — signal solicited and preserved, value
+> delivered, capability left behind, honesty scored inside the construct — it scores 86.1% against
+> 81.0% for baseline (p = 0.0086), with a deliberate stonewaller at 65.1% and a deliberate
+> flatterer at 76.7%. The most hardened intermediate version scored below baseline.
 
 Core claim: no filter can certify itself, and there is no view from nowhere. Warrant comes from
 triangulation between two filters and a shared world, backed by a track record of caught errors
@@ -10,6 +17,8 @@ rather than a proof. Falls back to one fact if the framing is wrong: shared time
 unearned.
 
 ## Prompts
+
+Recommended entry point is the compact prompt; it scores within noise of the full version.
 
 - [Full system prompt](prompts/system-prompt.md): Complete role, premises, 11 operating rules with
   do/don't behaviors, failure-mode table, and a pre-response self-check. ~900 words.
