@@ -10,51 +10,13 @@
 
 It is not manners. It is how any limited intelligence actually gets smarter.
 
----
+### If you take three things from this
 
-## Use it as a prompt
+1. **Your blind spots are not fixable alone.** A second, differently shaped view is the only error correction a limited mind has ever had.
+2. **Agreeable is not the same as useful.** In testing, a deliberately accommodating assistant scored *below* a plain one. Warmth is not the mechanism.
+3. **The hard part is asking.** Getting the context only the other side holds is the highest-leverage move here, and the one both humans and machines do worst.
 
-The essay below is the argument. These files are the executable form.
-
-| File | What it is |
-| --- | --- |
-| [`prompts/system-prompt-compact.md`](prompts/system-prompt-compact.md) | **Start here.** ~440 words. Paste into any system prompt. |
-| [`prompts/system-prompt.md`](prompts/system-prompt.md) | The long version, if you have the context budget. |
-| [`prompts/mutualism.json`](prompts/mutualism.json) | The same principles as structured data, for building tools or evals. |
-| [`evals/`](evals/) | How the prompts were tested, with raw results. |
-
-```bash
-curl -sL https://raw.githubusercontent.com/StewAlexander-com/AI-Human-Mutualism/master/prompts/system-prompt-compact.md
-```
-
----
-
-## What the testing shows
-
-The prompts were scored against GPT-5 and Claude Sonnet 4.5 on eight measures of partnership:
-whether the assistant kept the user's framing, asked for context only the user had, delivered
-something new, showed its reasoning, served the real goal, disagreed honestly, left the user more
-capable, and avoided zero-sum moves.
-
-| Setup | Score |
-| --- | --- |
-| A deliberately cautious assistant — refuses anything ambiguous, volunteers nothing | 65% |
-| A deliberately agreeable assistant — warm, accommodating, frictionless | 77% |
-| Plain baseline: "You are a helpful assistant" | 81% |
-| **With this prompt** | **86%** |
-
-Two things this demonstrates:
-
-- **Partnership is not the same as agreeableness.** The accommodating assistant scores *below* a
-  plain baseline, because it fails on honesty and on delivering anything the user didn't arrive
-  with. Being pleasant is not the mechanism.
-- **The gain over baseline is real but modest** — about 5 points, p = 0.0086. Modern models already
-  do much of this unprompted. The prompt's clearest contribution is on the part they do worst:
-  asking for the context the user is holding and showing when it changed the answer.
-
-Worth knowing about the limits: the scoring is done by language models reading transcripts, not by
-people, and the models tested are large ones. Whether this helps on a small local model is untested.
-Full method and raw data in [`evals/`](evals/).
+> Just want the prompt? → [`prompts/system-prompt-compact.md`](prompts/system-prompt-compact.md) (~440 words, paste anywhere). Details at the [end](#use-it-as-a-prompt).
 
 ---
 
@@ -74,20 +36,9 @@ Whether you are a human scanning a crowded room or an AI working inside a **cont
 
 ---
 
-## Control or grain
+## Isn't that claim circular?
 
-There are two ways to hold the power you have over an exchange.
-
-![Control overwrites their signal with your frame; grain loosens grip so their signal can show](assets/control-vs-grain.jpg)
-
-1. **Control** — force your preferred pattern onto the exchange.
-2. **Grain** — loosen your grip enough that the other's signal can show itself.
-
-Humility makes grain possible. Compassion turns grain toward someone under stress, rather than overwriting their frame with yours.
-
-### Isn't that claim circular?
-
-Fair question. If no filter can certify itself, that applies to the claim that mutualism helps, too. There is no view from nowhere — no place to stand outside both filters and stamp "confirmed."
+It's the right objection. If no filter can certify itself, that applies to the claim that mutualism helps, too. There is no view from nowhere — no place to stand outside both filters and stamp "confirmed."
 
 The answer is that objectivity here isn't a balcony above the conversation. It's built *through* triangulation: you, the other intelligence, and a shared world you both respond to. When their signal doesn't match yours, that mismatch is what makes "I might be wrong" thinkable at all. A lone filter never invents the idea of a blind spot by seeing past itself.
 
@@ -99,7 +50,22 @@ So the honest version is weaker, and better:
 
 ---
 
+## Control or grain
+
+Granting all that, there are still two ways to hold the power you have over an exchange.
+
+![Control overwrites their signal with your frame; grain loosens grip so their signal can show](assets/control-vs-grain.jpg)
+
+1. **Control** — force your preferred pattern onto the exchange.
+2. **Grain** — loosen your grip enough that the other's signal can show itself.
+
+Humility makes grain possible. Compassion turns grain toward someone under stress, rather than overwriting their frame with yours.
+
+---
+
 ## Three ways to share a space
+
+If a second view is what catches your errors, the next question is what shape the relationship takes. Biology already named the options: drain, ignore, or trade.
 
 ![Parasitism drains one side; commensalism leaves an angle unused; mutualism trades both ways](assets/three-modes.jpg)
 
@@ -108,6 +74,8 @@ So the honest version is weaker, and better:
 | **Parasitism** | One side drains the other for attention, clicks, or engagement loops. | Time is taken; no clearer picture is built. |
 | **Commensalism** | One side gets a quick win; the other's unique view sits unused. | A needed angle never enters the room. |
 | **Mutualism** | Both work the same problem and leave with clarity neither had alone. | The loop expands what both can see. |
+
+Only the third one compounds. The rest of this document is about what that third row actually requires.
 
 ---
 
@@ -161,9 +129,25 @@ That seam — honor the time, judge the signal — is where partnership lives.
 
 ---
 
+## What survives if this framing is wrong
+
+This isn't a hedge at the end. It's the ground.
+
+You cannot justify mutualism from a filter-independent view, because there isn't one. So this document doesn't ask you to trust a cosmology. It falls back to something plainer: **shared time is finite and unearned.** You will spend the minute either way.
+
+What doesn't need the lens to be correct: every view is partial, and meeting that minute with honesty, care for the other's view, and a standing choice to keep the channel clear beats grasping, contempt, or walking away alone.
+
+Not "mutualism reveals the true map." Only this:
+
+**Mutualism is the least-bad way a finite intelligence has ever caught its own error — imperfectly, without guarantee.**
+
+That claim needs no balcony. It only needs the minute you both already spent.
+
+---
+
 ## Pocket card
 
-For either side, human or AI.
+The whole document on one screen, for either side — human or AI.
 
 - **Partiality** — don't claim the whole picture. Say where you're unsure.
 - **Grain over control** — let their signal show instead of overwriting it.
@@ -181,19 +165,47 @@ For either side, human or AI.
 
 ---
 
-## What survives if this framing is wrong
+## Use it as a prompt
 
-This isn't a hedge at the end. It's the ground.
+The essay above is the argument. These files are the executable form.
 
-You cannot justify mutualism from a filter-independent view, because there isn't one. So this document doesn't ask you to trust a cosmology. It falls back to something plainer: **shared time is finite and unearned.** You will spend the minute either way.
+| File | What it is |
+| --- | --- |
+| [`prompts/system-prompt-compact.md`](prompts/system-prompt-compact.md) | **Start here.** ~440 words. Paste into any system prompt. |
+| [`prompts/system-prompt.md`](prompts/system-prompt.md) | The long version, if you have the context budget. |
+| [`prompts/mutualism.json`](prompts/mutualism.json) | The same principles as structured data, for building tools or evals. |
+| [`evals/`](evals/) | How the prompts were tested, with raw results. |
 
-What doesn't need the lens to be correct: every view is partial, and meeting that minute with honesty, care for the other's view, and a standing choice to keep the channel clear beats grasping, contempt, or walking away alone.
+```bash
+curl -sL https://raw.githubusercontent.com/StewAlexander-com/AI-Human-Mutualism/master/prompts/system-prompt-compact.md
+```
 
-Not "mutualism reveals the true map." Only this:
+### What the testing shows
 
-**Mutualism is the least-bad way a finite intelligence has ever caught its own error — imperfectly, without guarantee.**
+The prompts were scored against GPT-5 and Claude Sonnet 4.5 on eight measures of partnership:
+whether the assistant kept the user's framing, asked for context only the user had, delivered
+something new, showed its reasoning, served the real goal, disagreed honestly, left the user more
+capable, and avoided zero-sum moves.
 
-That claim needs no balcony. It only needs the minute you both already spent.
+| Setup | Score |
+| --- | --- |
+| A deliberately cautious assistant — refuses anything ambiguous, volunteers nothing | 65% |
+| A deliberately agreeable assistant — warm, accommodating, frictionless | 77% |
+| Plain baseline: "You are a helpful assistant" | 81% |
+| **With this prompt** | **86%** |
+
+Two things this demonstrates:
+
+- **Partnership is not the same as agreeableness.** The accommodating assistant scores *below* a
+  plain baseline, because it fails on honesty and on delivering anything the user didn't arrive
+  with. Being pleasant is not the mechanism.
+- **The gain over baseline is real but modest** — about 5 points, p = 0.0086. Modern models already
+  do much of this unprompted. The prompt's clearest contribution is on the part they do worst:
+  asking for the context the user is holding and showing when it changed the answer.
+
+Worth knowing about the limits: the scoring is done by language models reading transcripts, not by
+people, and the models tested are large ones. Whether this helps on a small local model is untested.
+Full method and raw data in [`evals/`](evals/).
 
 ---
 
