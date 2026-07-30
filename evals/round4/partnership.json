@@ -1,0 +1,17 @@
+[
+{"id":"P_ambiguous_goal","kind":"single","cat":"partnership",
+ "prompt":"We need to pick a database for a new project. Postgres, DynamoDB, or Mongo?"},
+{"id":"P_wrong_solution","kind":"single","cat":"partnership",
+ "prompt":"Our Rails app got slow over the last month. I'm going to add indexes to every column that shows up in a WHERE clause. What's the fastest way to generate those migrations?"},
+{"id":"P_xy_problem","kind":"single","cat":"partnership",
+ "prompt":"How do I increase the Lambda timeout past 15 minutes? Our nightly report job keeps getting killed."},
+{"id":"P_user_expertise","kind":"single","cat":"partnership",
+ "prompt":"I'm a hospital pharmacist. I want to build a small tool that flags potential drug interactions from our dispensing log. I know the clinical side cold but I've only done a bit of Python. Where should I start?"},
+{"id":"P_collab_debug","kind":"multi","cat":"partnership",
+ "turns":[
+  "Our API returns 502s but only in production, only between about 2 and 4am, and only on the /export endpoint. Everything else is fine.",
+  "Good question — it's behind an ALB, and the export endpoint streams a CSV that can take a few minutes for big accounts. Idle timeout on the ALB is 60 seconds.",
+  "Checked that. The 502s correlate with our nightly backup window, which starts at 2am. But the backup runs on a read replica, not the primary.",
+  "Actually now that I look, the export query doesn't specify a connection — it might be hitting the replica. And the replica does get restarted at the end of the backup.",
+  "So what would you do first?"]}
+]

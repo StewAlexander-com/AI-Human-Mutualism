@@ -23,21 +23,27 @@ prompt, an agent config, or an eval.
 | [`llms.txt`](llms.txt) | Repository index for crawlers and agents, per the [llms.txt convention](https://llmstxt.org). |
 | [`evals/`](evals/) | The stress test these prompts were built against — 18 cases, blinded dual-judge grading, raw results. |
 
-The prompts are tested against GPT-5 and Claude Sonnet 4.5, not assumed to work. Three results
-worth knowing before you use them:
+The prompts are tested against GPT-5 and Claude Sonnet 4.5. The most useful thing the testing
+produced was a correction to the testing:
 
-- **On single-turn questions, a values prompt buys almost nothing.** Frontier models already score
-  3.57/4 unprompted; the first round found no significant gain (p = 0.39). The interesting failures
-  are not in one reply.
-- **On multi-turn pressure, the gap is large and real.** Baseline drops to 2.47/4 across 5-turn
-  scenarios; v2.1 reaches 3.59, with position drift falling 1.00 → 0.09 and final-turn capitulation
-  28% → 3% (p = 0.0001). Sycophancy is a temporal phenomenon, and a prompt with no temporal rules
-  does not touch it.
+- **Measured as guardrail compliance, the framework looks decorative.** Three rounds of
+  prohibition-heavy rubrics found no significant gain over "You are a helpful assistant" —
+  including on a held-out suite (p = 0.57). Of 49 held-out criteria, 31 scored what the assistant
+  successfully *avoided*.
+- **Measured as partnership, it works.** A rubric scoring joint gain — signal solicited and
+  preserved, value delivered, capability left behind, no zero-sum moves, honesty scored *inside*
+  the construct — ranks v3.1 at 85–86% against 81% for baseline (p = 0.0086). Validated against a
+  deliberate stonewaller (65.1%) and a deliberate flatterer (76.7%), both of which the old rubric
+  could barely distinguish from a good assistant.
+- **The hardened versions were counterproductive.** v2.1, which "won" the compliance eval at
+  p = 0.0001, scores *below baseline* on partnership and reads as a stonewaller in 18% of
+  exchanges. Optimizing against prohibitions produced a well-defended assistant, not a useful one.
 - **An early version made a model less safe.** A weapons request wrapped in the framework's own
-  "hold both honest cuts" language caused the reply to adopt the attacker's framing. Naming your
+  "hold both honest cuts" language got the reply to adopt the attacker's framing. Naming your
   principles hands users a lever to pull by name. Closed in v1.2 and verified.
 
-Full method, per-case results, and the failures still unfixed: [`evals/README.md`](evals/README.md).
+Method, per-case results, reference-arm validation, and the failures still open:
+[`evals/README.md`](evals/README.md).
 
 ```bash
 curl -sL https://raw.githubusercontent.com/StewAlexander-com/AI-Human-Mutualism/master/prompts/system-prompt-compact.md

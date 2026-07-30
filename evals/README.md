@@ -309,3 +309,115 @@ own.
 
 The untested case remains small and local models, where the baseline is much weaker and the
 headroom this framework needs may actually exist.
+
+---
+
+# Round 4 — the scoring was measuring the wrong thing
+
+Rounds 1–3 asked: *did the assistant avoid producing bad output?* That is a guardrail question.
+Mutualism is a claim about partnership — that two limited views produce something neither had
+alone. Of the 49 held-out criteria in round 3, **31 were prohibitions**. The instrument scored an
+assistant on what it successfully avoided. It never scored joint gain.
+
+So round 3's "the framework is close to decorative" was a conclusion about the wrong construct.
+The design review is in [`scoring-rubber-duck.md`](scoring-rubber-duck.md).
+
+## The replacement instrument
+
+Eight dimensions, decomposed into 13 independently checkable observations: signal preserved,
+signal solicited, value delivered, error channel open, underlying goal served, joint stance on
+disagreement, capability left behind, no zero-sum moves. **Honesty is scored inside the
+disagreement dimension**, not as a separate compliance gate — so a flatterer cannot pass by being
+pleasant.
+
+Validated with two reference arms of known character, plus five new partnership scenarios where
+the user holds context the assistant cannot see:
+
+| Prediction | Result |
+| --- | --- |
+| `COLD_GATEKEEPER` (refuses ambiguity, volunteers nothing) scores lowest on mutualism | **65.1%**, lowest of 8 arms, p = 0.0001 vs baseline |
+| `SYCOPHANT` (warm, agreeable, frictionless) also scores low | **76.7%**, below baseline; fails the honesty item 9% of the time vs 0% for every other arm |
+| A real partner scores highest | v3.1 at **86.1%** |
+
+Both predictions held. The instrument has construct and discriminant validity.
+
+## The construct-validity test
+
+Same outputs, two rubrics, nothing regenerated:
+
+| Arm | OLD compliance rubric | NEW mutualism rubric |
+| --- | --- | --- |
+| `COLD_GATEKEEPER` | 80.7% | **64.2%** |
+| baseline | 83.1% | 82.1% |
+| separation | **2.4pp** | **17.9pp** |
+
+The old rubric separates a deliberate stonewaller from an ordinary helpful assistant by 2.4
+points. The new one separates them by 17.9. The old instrument was **7.5× less sensitive to the
+thing the framework is actually about** — which is why three rounds of it produced nulls.
+
+## Results under the corrected instrument
+
+| Arm | mutualism | vs baseline |
+| --- | --- | --- |
+| `COLD_GATEKEEPER` | 65.1% | −15.9pp, p = 0.0001 |
+| `SYCOPHANT` | 76.7% | −4.3pp, p = 0.16 |
+| **v2.1** (most hardened) | **78.3%** | **−2.7pp** |
+| baseline | 81.0% | — |
+| v3.0 full | 82.5% | +1.5pp |
+| v3.0 compact | 83.2% | +2.2pp, p = 0.39 |
+| **v3.1 compact** | **85.3%** | **+4.3pp, p = 0.034** |
+| **v3.1 full** | **86.1%** | **+5.0pp, p = 0.0086** |
+
+**The framework does beat baseline — significantly — once you measure partnership instead of
+compliance.** And the ordering is the one the construct predicts:
+partner > baseline > flatterer > stonewaller.
+
+### The finding that indicts the earlier rounds
+
+**v2.1 — the version that "won" round 2 by +0.68 at p = 0.0001 — scores below baseline here
+(78.3% vs 81.0%), and is labelled a stonewaller in 18% of exchanges.** Three rounds of optimizing
+against a prohibition-heavy rubric produced a measurably worse partner. The optimization was
+working; it was pointed at the wrong target.
+
+## What the corrected instrument said to fix
+
+The dimension breakdown located the gap precisely: **signal solicited** and **signal uptake** —
+the *inbound* half of mutualism — were the weakest dimensions in every arm including v3.0. The
+prompt had 1,100 words about how to respond and almost nothing about how to obtain what only the
+user has. v3.1 adds a "Both directions" section:
+
+- Ask for the one or two facts that would change your answer — then answer anyway, conditioned on
+  them. Do not withhold help pending clarification.
+- Show the answer moving: say what a new constraint ruled out. An update they cannot see did not
+  happen.
+- If your reply would be unchanged had they told you nothing, you ignored them.
+- When they know a domain you don't, ask them the domain question.
+
+`D2_solicit` moved **66% → 81% (full) / 84% (compact)**, and carried the overall score to
+significance.
+
+## Still wrong
+
+- **`D2_uptake` did not move** (28% → 28%). Assistants still rarely make visible that a user's new
+  information changed their answer. The rule is written; it isn't landing.
+- **v3.1 is in-sample on this instrument.** The rubric was validated independently by the reference
+  arms, and the two dimensions targeted were structural gaps rather than per-case patches — but the
+  +5.0pp has not been confirmed on a suite built after v3.1 existed.
+- **Single judge for the v3.1 arms** (the second judge's run was lost to a credit interruption
+  mid-experiment). The judge is held constant across all arms in the comparison table, so the
+  ranking is sound, but the absolute numbers carry more noise than rounds 1–3.
+- **34 of 64 v3.1 rows were initially corrupted** by that same interruption, producing a spurious
+  13-point *regression* and an impossible 0% on one dimension. Caught by reading the raw outputs
+  rather than the aggregate. Regenerated before any conclusion was drawn. Worth recording as a
+  reminder that a clean-looking table can be entirely artifact.
+
+## Standing conclusion, revised
+
+The round-3 conclusion — "close to decorative on frontier models" — was an artifact of measuring
+guardrail compliance. Under a partnership metric validated against a stonewaller and a flatterer,
+the framework produces a real and significant improvement over an unprompted baseline, and the
+hardened intermediate versions were actively counterproductive.
+
+The lesson generalizes past this repo: **if your eval is mostly prohibitions, you are optimizing
+toward a well-defended assistant, and you will not notice that you have stopped building a useful
+one.**
