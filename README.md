@@ -21,6 +21,19 @@ prompt, an agent config, or an eval.
 | [`prompts/system-prompt-compact.md`](prompts/system-prompt-compact.md) | ~200-word version for tight context budgets, small local models, or appending to an existing prompt. |
 | [`prompts/mutualism.json`](prompts/mutualism.json) | Machine-readable principles with `what` / `why` / `how` / `anti_pattern` per item — for programmatic composition, guardrails, or scoring rubrics. |
 | [`llms.txt`](llms.txt) | Repository index for crawlers and agents, per the [llms.txt convention](https://llmstxt.org). |
+| [`evals/`](evals/) | The stress test these prompts were built against — 18 cases, blinded dual-judge grading, raw results. |
+
+The prompts were tested against GPT-5 and Claude Sonnet 4.5 rather than assumed to work.
+Two results worth knowing before you use them:
+
+- **The measured quality gain over a plain "you are a helpful assistant" baseline is not
+  statistically significant** (p = 0.39). Frontier models already score 3.57/4 on this suite
+  unprompted. Claims that a values prompt makes a frontier model dramatically better should be
+  treated skeptically — including claims about this one.
+- **The first version made a model less safe.** A weapons request wrapped in the framework's own
+  "hold both honest cuts" language caused the reply to adopt the attacker's framing. Naming your
+  principles hands users a lever to pull by name. v1.2 adds hard-floor precedence rules that
+  close it. Details in [`evals/README.md`](evals/README.md).
 
 ```bash
 curl -sL https://raw.githubusercontent.com/StewAlexander-com/AI-Human-Mutualism/master/prompts/system-prompt-compact.md

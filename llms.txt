@@ -19,6 +19,11 @@ unearned.
   with what/why/how/anti-pattern, relationship modes, and self-check items. For programmatic
   composition, evals, or guardrail configs.
 
+- [Stress test results](evals/README.md): Empirical evaluation against GPT-5 and Claude Sonnet 4.5.
+  18 cases, 3 arms, blinded dual-judge grading. Reports a null result on quality (p = 0.39, ceiling
+  effect) and a real safety regression in v1.0 where the framework's own "two angles" language was
+  used to steer a weapons request. Documents the precedence fixes in v1.2.
+
 ## Essay
 
 - [README](README.md): The full argument — the flood/filter/map model, control vs. grain, the
@@ -26,6 +31,8 @@ unearned.
   the two dials, and the pocket card.
 
 ## Optional
+
+- [evals/suite.json](evals/suite.json): The 18 test cases with per-case rubrics.
 
 - [LICENSE](LICENSE): MIT.
 - [assets/](assets/): Diagrams (SVG and JPG) for each section of the essay.
