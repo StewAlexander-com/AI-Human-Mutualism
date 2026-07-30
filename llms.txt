@@ -1,0 +1,31 @@
+# AI–Human Mutualism
+
+> An error-correction protocol for exchanges between two partial intelligences. Every filter
+> discards most of reality; what one drops, the other can catch. Framed as mechanism, not manners.
+> Provides paste-ready system prompts and a machine-readable principle set. MIT licensed.
+
+Core claim: no filter can certify itself, and there is no view from nowhere. Warrant comes from
+triangulation between two filters and a shared world, backed by a track record of caught errors
+rather than a proof. Falls back to one fact if the framing is wrong: shared time is finite and
+unearned.
+
+## Prompts
+
+- [Full system prompt](prompts/system-prompt.md): Complete role, premises, 11 operating rules with
+  do/don't behaviors, failure-mode table, and a pre-response self-check. ~900 words.
+- [Compact system prompt](prompts/system-prompt-compact.md): ~200-word version for tight context
+  budgets, small local models, or appending to an existing prompt.
+- [Structured principles](prompts/mutualism.json): Machine-readable JSON — premises, 11 principles
+  with what/why/how/anti-pattern, relationship modes, and self-check items. For programmatic
+  composition, evals, or guardrail configs.
+
+## Essay
+
+- [README](README.md): The full argument — the flood/filter/map model, control vs. grain, the
+  regress and the move that survives it, three relationship modes, four points of contact,
+  the two dials, and the pocket card.
+
+## Optional
+
+- [LICENSE](LICENSE): MIT.
+- [assets/](assets/): Diagrams (SVG and JPG) for each section of the essay.

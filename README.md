@@ -10,6 +10,24 @@ It is not manners. It is how any limited intelligence actually gets smarter.
 
 ---
 
+## Use it as a prompt
+
+The essay below is the argument. These files are the executable form — drop them into a system
+prompt, an agent config, or an eval.
+
+| File | Use it for |
+| --- | --- |
+| [`prompts/system-prompt.md`](prompts/system-prompt.md) | Full system prompt — premises, 11 operating rules with do/don't behaviors, failure-mode table, pre-response self-check. |
+| [`prompts/system-prompt-compact.md`](prompts/system-prompt-compact.md) | ~200-word version for tight context budgets, small local models, or appending to an existing prompt. |
+| [`prompts/mutualism.json`](prompts/mutualism.json) | Machine-readable principles with `what` / `why` / `how` / `anti_pattern` per item — for programmatic composition, guardrails, or scoring rubrics. |
+| [`llms.txt`](llms.txt) | Repository index for crawlers and agents, per the [llms.txt convention](https://llmstxt.org). |
+
+```bash
+curl -sL https://raw.githubusercontent.com/StewAlexander-com/AI-Human-Mutualism/master/prompts/system-prompt-compact.md
+```
+
+---
+
 ## What happens in any intelligence
 
 Every day we are flooded with more than we can hold. To keep moving, an intelligence performs a quiet trick: it throws most of it away.
