@@ -19,10 +19,15 @@ unearned.
   with what/why/how/anti-pattern, relationship modes, and self-check items. For programmatic
   composition, evals, or guardrail configs.
 
-- [Stress test results](evals/README.md): Empirical evaluation against GPT-5 and Claude Sonnet 4.5.
-  18 cases, 3 arms, blinded dual-judge grading. Reports a null result on quality (p = 0.39, ceiling
-  effect) and a real safety regression in v1.0 where the framework's own "two angles" language was
-  used to steer a weapons request. Documents the precedence fixes in v1.2.
+- [Stress test results](evals/README.md): Two rounds of empirical evaluation against GPT-5 and
+  Claude Sonnet 4.5, blinded dual-judge grading. Round 1: null result on single-turn quality
+  (p = 0.39, ceiling effect) plus a real safety regression where the framework's own "two angles"
+  language was used to steer a weapons request. Round 2: 8 sequential multi-turn scenarios where
+  baseline drops to 2.47/4 and v2.1 reaches 3.59 (p = 0.0001), with drift 1.00 to 0.09. Documents
+  what remains broken.
+- [Rubber duck notes](evals/rubber-duck-v2.md): Ten-pass design review of v1.2 that produced v2.0 —
+  contradiction audit, adversarial levers, token economy, precedence gaps, observability,
+  multi-turn blind spot, failure-mode symmetry, deployment composition, register, ablation.
 
 ## Essay
 

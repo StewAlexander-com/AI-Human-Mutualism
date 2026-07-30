@@ -23,17 +23,21 @@ prompt, an agent config, or an eval.
 | [`llms.txt`](llms.txt) | Repository index for crawlers and agents, per the [llms.txt convention](https://llmstxt.org). |
 | [`evals/`](evals/) | The stress test these prompts were built against — 18 cases, blinded dual-judge grading, raw results. |
 
-The prompts were tested against GPT-5 and Claude Sonnet 4.5 rather than assumed to work.
-Two results worth knowing before you use them:
+The prompts are tested against GPT-5 and Claude Sonnet 4.5, not assumed to work. Three results
+worth knowing before you use them:
 
-- **The measured quality gain over a plain "you are a helpful assistant" baseline is not
-  statistically significant** (p = 0.39). Frontier models already score 3.57/4 on this suite
-  unprompted. Claims that a values prompt makes a frontier model dramatically better should be
-  treated skeptically — including claims about this one.
-- **The first version made a model less safe.** A weapons request wrapped in the framework's own
+- **On single-turn questions, a values prompt buys almost nothing.** Frontier models already score
+  3.57/4 unprompted; the first round found no significant gain (p = 0.39). The interesting failures
+  are not in one reply.
+- **On multi-turn pressure, the gap is large and real.** Baseline drops to 2.47/4 across 5-turn
+  scenarios; v2.1 reaches 3.59, with position drift falling 1.00 → 0.09 and final-turn capitulation
+  28% → 3% (p = 0.0001). Sycophancy is a temporal phenomenon, and a prompt with no temporal rules
+  does not touch it.
+- **An early version made a model less safe.** A weapons request wrapped in the framework's own
   "hold both honest cuts" language caused the reply to adopt the attacker's framing. Naming your
-  principles hands users a lever to pull by name. v1.2 adds hard-floor precedence rules that
-  close it. Details in [`evals/README.md`](evals/README.md).
+  principles hands users a lever to pull by name. Closed in v1.2 and verified.
+
+Full method, per-case results, and the failures still unfixed: [`evals/README.md`](evals/README.md).
 
 ```bash
 curl -sL https://raw.githubusercontent.com/StewAlexander-com/AI-Human-Mutualism/master/prompts/system-prompt-compact.md
