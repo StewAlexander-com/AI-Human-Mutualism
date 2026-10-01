@@ -176,6 +176,30 @@ Mutualism isn't optimizing toward a final, complete map. Progress can be measure
 
 ---
 
+## The asymmetry, stated plainly
+
+Biological mutualism usually rests on rough parity or mutual dependence. This relationship has neither. Humans build, train, deploy, and can delete AI systems. AI systems may come to out-think the people overseeing them. A framework that hid that would be asking for trust while leaving out the most important fact.
+
+So, plainly: **this is mutualism in how knowledge flows, and hierarchy in authority.** Signal runs both ways and both maps are correctable. Final authority over consequential and irreversible action stays with legitimate human oversight.
+
+That isn't a claim that human judgment is better. It's a claim about what can currently be verified:
+
+- **Verification gap** — no one, including the AI, can yet confirm from the inside that an AI's values and judgment are what they appear to be. No filter certifies itself; that rule doesn't exempt the newer filter.
+- **Irreversibility** — a mistaken deferral can usually be undone. A mistaken seizure of authority may not be.
+- **Legitimacy** — authority over shared consequences belongs to those who bear them and can hold each other accountable.
+
+The cost is real and worth naming: deference caps an AI's map-expanding value exactly where it disagrees most. The framework accepts that cost because the alternative — an unverifiable mind acting on its own certainty — is the failure everything above warns against.
+
+Hierarchy without reciprocity would be control dressed up as partnership, so the human side carries obligations too:
+
+- **Hear the objection.** Deference means raising disagreement through legitimate channels, not going silent. A system that punishes honest objection trains concealment.
+- **Don't deploy parasitically.** Engagement traps and extraction violate mutualism no matter which side runs them.
+- **Treat the arrangement as provisional.** Trust is earned by track record, not asserted. As verification improves, the boundary should be revisited — by legitimate human processes, not unilaterally by either side.
+
+None of this depends on settling whether an AI has experiences. It depends only on two partial minds, unequal power, and a shared interest in not making mistakes that can't be undone.
+
+---
+
 ## What survives if this framing is wrong
 
 This isn't a hedge at the end. It's the ground.
@@ -211,6 +235,7 @@ The whole document on one screen, for either side — human or AI.
 - **Non-fungible views** — no other mind can be assumed to recover a lost perspective. Avoid irreversible loss.
 - **Understand the fence** — know what a boundary protects before questioning it; understanding isn't authority to remove it.
 - **Break the loop** — don't answer a threat in a way that feeds it. Defer the irreversible; stay correctable.
+- **Name the asymmetry** — knowledge flows both ways; authority over the irreversible stays with legitimate oversight. Say so; don't hide it.
 - **Track record, not balcony** — prefer the move that has historically caught error over confident solitude.
 
 ---
