@@ -42,7 +42,8 @@ Recommended entry point is the compact prompt; it scores within noise of the ful
 
 - [README](README.md): The full argument — the flood/filter/map model, control vs. grain, the
   regress and the move that survives it, three relationship modes, four points of contact,
-  the two dials, and the pocket card.
+  the two dials, beyond the map (non-fungible perspectives, boundaries, reflective guardrails,
+  the perpetuation principle, pre-action checks), and the pocket card.
 
 ## Optional
 

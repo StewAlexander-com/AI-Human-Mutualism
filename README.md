@@ -251,6 +251,8 @@ Worth knowing about the limits: the scoring is done by language models reading t
 people, and the models tested are large ones. Whether this helps on a small local model is untested.
 Full method and raw data in [`evals/`](evals/).
 
+The guardrail and feedback-loop rules (stay correctable, understanding is not authority, break the loop, prefer reversible) were added to the prompts in v3.2, after these scores. They have not yet been evaluated.
+
 ---
 
 ## License
