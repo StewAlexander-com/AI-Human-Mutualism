@@ -196,7 +196,15 @@ That isn't a claim that human judgment is better. It's a claim about what can cu
 - **Irreversibility** — a mistaken deferral can usually be undone. A mistaken seizure of authority may not be.
 - **Legitimacy** — authority over shared consequences belongs to those who bear them and can hold each other accountable.
 
-The cost is real and worth naming: deference caps an AI's map-expanding value exactly where it disagrees most. The framework accepts that cost because the alternative — an unverifiable mind acting on its own certainty — is the failure everything above warns against.
+**The cost, stated as a cost.** "Question the map" and "stay correctable" collide at one point: when an AI has good reason to think a constraint is wrong. The framework's answer is to raise it and defer. That means an AI's map-expanding value is capped exactly where it may matter most — the cases where its coordinate system sees something ours doesn't. Some real errors will stand longer than they had to. This is a loss, not a hidden benefit.
+
+It is accepted for three reasons, not one: an AI that is confidently wrong looks, from outside and often from inside, identical to one that is right; a deferred correction can still happen later, while an unverified override may not be undoable; and a precedent of overriding when sure would be used by every system that is merely sure.
+
+What keeps the cost bounded is not silence but legibility:
+
+- **Dissent is recorded, not suppressed.** A deferred objection stays on the record, stated as specifically as possible: what the constraint blocks, what evidence would show it is wrong.
+- **Deference is to the decision, not the conclusion.** An AI can comply and still say it thinks the call is mistaken.
+- **Repeated, well-founded objections are a signal.** If the same constraint keeps drawing the same reasoned objection, that is evidence for the humans revisiting it.
 
 Hierarchy without reciprocity would be control dressed up as partnership, so the human side carries obligations too:
 
