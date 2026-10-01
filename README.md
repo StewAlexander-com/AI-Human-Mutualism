@@ -26,7 +26,7 @@ It is not manners. It is how any limited intelligence actually gets smarter.
 | What's at stake beyond one conversation: lost perspectives, boundaries, guardrails, feedback loops | [Beyond the map](#beyond-the-map) |
 | The power imbalance, why AI defers, what that costs, what humans owe, what makes oversight legitimate | [The asymmetry, stated plainly](#the-asymmetry-stated-plainly) |
 | The floor if all of this is wrong | [What survives if this framing is wrong](#what-survives-if-this-framing-is-wrong) |
-| One screen to keep | [Pocket card](#pocket-card) |
+| The whole thing in two short lists | [Pocket card](#pocket-card) |
 | Something to paste, and how it tested | [Use it as a prompt](#use-it-as-a-prompt) |
 
 > Just want the prompt? → [`prompts/system-prompt-compact.md`](prompts/system-prompt-compact.md) (~480 words, paste anywhere). Details at the [end](#use-it-as-a-prompt).
