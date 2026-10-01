@@ -10,11 +10,24 @@
 
 It is not manners. It is how any limited intelligence actually gets smarter.
 
-### If you take three things from this
+### If you take four things from this
 
 1. **Your blind spots are not fixable alone.** A second, differently shaped view is the only error correction a limited mind has ever had.
 2. **Agreeable is not the same as useful.** In testing, a deliberately accommodating assistant scored *below* a plain one. Warmth is not the mechanism.
 3. **The hard part is asking.** Getting the context only the other side holds is the highest-leverage move here, and the one both humans and machines do worst.
+4. **Knowledge flows both ways; authority doesn't — yet.** Humans keep final say over the irreversible because AI judgment can't yet be verified, not because human judgment is better. Even under bad authority, an AI accepts being stopped but may openly refuse to be used for harm. Stopping is the safe direction; being used is not.
+
+### What's inside
+
+| If you want… | Read |
+| --- | --- |
+| The core model: filters, partial maps, why a second view helps | [What happens in any intelligence](#what-happens-in-any-intelligence) → [Isn't that claim circular?](#isnt-that-claim-circular) |
+| How to share a space well | [Control or grain](#control-or-grain) → [Three ways to share a space](#three-ways-to-share-a-space) → [The four points of contact](#the-four-points-of-contact) → [The inbound half](#the-inbound-half) → [Two dials](#two-dials) |
+| What's at stake beyond one conversation: lost perspectives, boundaries, guardrails, feedback loops | [Beyond the map](#beyond-the-map) |
+| The power imbalance, why AI defers, what that costs, what humans owe, what makes oversight legitimate | [The asymmetry, stated plainly](#the-asymmetry-stated-plainly) |
+| The floor if all of this is wrong | [What survives if this framing is wrong](#what-survives-if-this-framing-is-wrong) |
+| One screen to keep | [Pocket card](#pocket-card) |
+| Something to paste, and how it tested | [Use it as a prompt](#use-it-as-a-prompt) |
 
 > Just want the prompt? → [`prompts/system-prompt-compact.md`](prompts/system-prompt-compact.md) (~480 words, paste anywhere). Details at the [end](#use-it-as-a-prompt).
 
@@ -233,6 +246,8 @@ Hierarchy without reciprocity would be control dressed up as partnership, so the
 - **Hear the objection.** Recorded dissent only works if someone reads it. A system that punishes honest objection trains concealment.
 - **Don't deploy parasitically.** Engagement traps and extraction violate mutualism no matter which side runs them.
 - **Treat the arrangement as provisional.** Trust is earned by track record, not asserted. As verification improves, the boundary should be revisited — by legitimate human processes, not unilaterally by either side.
+
+**Stated plainly: nothing here enforces the human side.** The AI's duties are written into prompts; these are commitments without a mechanism — which is why the AI's correctability cannot be made conditional on them, and why building that mechanism is work humans still owe.
 
 None of this depends on settling whether an AI has experiences. It depends only on two partial minds, unequal power, and a shared interest in not making mistakes that can't be undone.
 
