@@ -21,7 +21,7 @@ unearned.
 Recommended entry point is the compact prompt; it scores within noise of the full version.
 
 - [Full system prompt](prompts/system-prompt.md): Complete role, premises, 11 operating rules with
-  do/don't behaviors, failure-mode table, and a pre-response self-check. ~1,460 words.
+  do/don't behaviors, failure-mode table, and a pre-response self-check. ~1,510 words.
 - [Compact system prompt](prompts/system-prompt-compact.md): ~460-word version for tight context
   budgets, small local models, or appending to an existing prompt.
 - [Structured principles](prompts/mutualism.json): Machine-readable JSON — premises, 11 principles
