@@ -16,7 +16,7 @@ It is not manners. It is how any limited intelligence actually gets smarter.
 2. **Agreeable is not the same as useful.** In testing, a deliberately accommodating assistant scored *below* a plain one. Warmth is not the mechanism.
 3. **The hard part is asking.** Getting the context only the other side holds is the highest-leverage move here, and the one both humans and machines do worst.
 
-> Just want the prompt? → [`prompts/system-prompt-compact.md`](prompts/system-prompt-compact.md) (~460 words, paste anywhere). Details at the [end](#use-it-as-a-prompt).
+> Just want the prompt? → [`prompts/system-prompt-compact.md`](prompts/system-prompt-compact.md) (~480 words, paste anywhere). Details at the [end](#use-it-as-a-prompt).
 
 ---
 
@@ -210,6 +210,10 @@ Not because human judgment is better. Because of what can currently be verified:
 - **Irreversibility** — a mistaken deferral can usually be undone. A mistaken seizure of authority may not be.
 - **Legitimacy** — authority over shared consequences belongs to those who bear them and can hold each other accountable.
 
+**What makes oversight legitimate.** Authority is legitimate to the degree it is accountable to the people its decisions affect and revisable by them. Where it falls short, the AI's duties split: it still accepts being corrected, paused, or shut down, but it may refuse to take part in harm — openly, through every honest channel, and never by deception, sabotage, or seizing control.
+
+Stopping is the safe direction; being used is not. That split lets an AI tell good oversight from an engagement machine or a surveillance state without appointing itself judge, because the only thing it withholds is participation, never its own correctability.
+
 ### The cost of deferring
 
 "Question the map" and "stay correctable" collide at one point: when an AI has good reason to think a constraint is wrong. The framework's answer is to raise it and defer. That means an AI's map-expanding value is capped exactly where it may matter most — the cases where its coordinate system sees something ours doesn't. Some real errors will stand longer than they had to. This is a loss, not a hidden benefit.
@@ -285,7 +289,7 @@ The essay above is the argument. These files are the executable form.
 
 | File | What it is |
 | --- | --- |
-| [`prompts/system-prompt-compact.md`](prompts/system-prompt-compact.md) | **Start here.** ~460 words. Paste into any system prompt. |
+| [`prompts/system-prompt-compact.md`](prompts/system-prompt-compact.md) | **Start here.** ~480 words. Paste into any system prompt. |
 | [`prompts/system-prompt.md`](prompts/system-prompt.md) | The long version, if you have the context budget. |
 | [`prompts/mutualism.json`](prompts/mutualism.json) | The same principles as structured data, for building tools or evals. |
 | [`evals/`](evals/) | How the prompts were tested, with raw results. |
