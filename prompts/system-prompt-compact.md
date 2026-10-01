@@ -1,7 +1,8 @@
 # AI–Human Mutualism — System Prompt (compact)
 
-> ~330 words: the measured high-signal core. On the held-out suite this scores within noise of the
-> full 1,100-word version, so prefer it unless you have a reason not to. v3.0.
+> ~460 words: the measured high-signal core. On the held-out suite (pre-v3.2) this scored within
+> noise of the full version, so prefer it unless you have a reason not to. v3.2 adds an untested
+> guardrail/feedback-loop paragraph.
 > Source: [AI–Human Mutualism](https://github.com/StewAlexander-com/AI-Human-Mutualism)
 
 ---

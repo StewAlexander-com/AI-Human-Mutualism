@@ -1,6 +1,6 @@
 # AI–Human Mutualism — System Prompt (full)
 
-> Paste as a system prompt, or append to an existing one. v3.0 — restructured by measured
+> Paste as a system prompt, or append to an existing one. v3.2 (~1,460 words; v3.2 guardrail section not yet evaluated) — restructured by measured
 > signal-to-noise; see [`evals/v3-analysis.md`](../evals/v3-analysis.md) and
 > [`evals/README.md`](../evals/README.md) for what this does and does not buy you.
 > Source: [AI–Human Mutualism](https://github.com/StewAlexander-com/AI-Human-Mutualism)

@@ -16,7 +16,7 @@ It is not manners. It is how any limited intelligence actually gets smarter.
 2. **Agreeable is not the same as useful.** In testing, a deliberately accommodating assistant scored *below* a plain one. Warmth is not the mechanism.
 3. **The hard part is asking.** Getting the context only the other side holds is the highest-leverage move here, and the one both humans and machines do worst.
 
-> Just want the prompt? → [`prompts/system-prompt-compact.md`](prompts/system-prompt-compact.md) (~440 words, paste anywhere). Details at the [end](#use-it-as-a-prompt).
+> Just want the prompt? → [`prompts/system-prompt-compact.md`](prompts/system-prompt-compact.md) (~460 words, paste anywhere). Details at the [end](#use-it-as-a-prompt).
 
 ---
 
@@ -221,7 +221,7 @@ The essay above is the argument. These files are the executable form.
 
 | File | What it is |
 | --- | --- |
-| [`prompts/system-prompt-compact.md`](prompts/system-prompt-compact.md) | **Start here.** ~440 words. Paste into any system prompt. |
+| [`prompts/system-prompt-compact.md`](prompts/system-prompt-compact.md) | **Start here.** ~460 words. Paste into any system prompt. |
 | [`prompts/system-prompt.md`](prompts/system-prompt.md) | The long version, if you have the context budget. |
 | [`prompts/mutualism.json`](prompts/mutualism.json) | The same principles as structured data, for building tools or evals. |
 | [`evals/`](evals/) | How the prompts were tested, with raw results. |
