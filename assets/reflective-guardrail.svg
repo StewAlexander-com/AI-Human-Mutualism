@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 290" role="img" aria-labelledby="title desc">
+<title id="title">Reflective guardrail</title>
+<desc id="desc">Examining a constraint is separate from the authority to change it, which stays with legitimate human oversight.</desc>
+<rect width="760" height="290" rx="16" fill="#EDE8DF"/>
+<rect x="16" y="16" width="728" height="258" rx="12" fill="#F7F4EE"/>
+<rect x="40" y="50" width="330" height="170" rx="10" fill="#FFFFFF" stroke="#1C2430" stroke-width="1.2"/><text x="205" y="80" text-anchor="middle" font-family="Georgia, serif" font-size="16" fill="#1C2430">Understanding the fence</text>
+<text x="70" y="108" text-anchor="start" font-family="system-ui, sans-serif" font-size="12" fill="#1C2430">• what does it protect?</text>
+<text x="70" y="130" text-anchor="start" font-family="system-ui, sans-serif" font-size="12" fill="#1C2430">• who built it, and why?</text>
+<text x="70" y="152" text-anchor="start" font-family="system-ui, sans-serif" font-size="12" fill="#1C2430">• whose view was missing?</text>
+<text x="70" y="174" text-anchor="start" font-family="system-ui, sans-serif" font-size="12" fill="#1C2430">• which assumptions expired?</text>
+<text x="70" y="196" text-anchor="start" font-family="system-ui, sans-serif" font-size="12" fill="#1C2430">• what less harmful option exists?</text>
+<rect x="390" y="50" width="330" height="170" rx="10" fill="#1C2430"/><text x="555" y="80" text-anchor="middle" font-family="Georgia, serif" font-size="16" fill="#F4F1EA">Authority to change it</text>
+<text x="420" y="108" text-anchor="start" font-family="system-ui, sans-serif" font-size="12" fill="#B8C0CA">• stays with legitimate oversight</text>
+<text x="420" y="130" text-anchor="start" font-family="system-ui, sans-serif" font-size="12" fill="#B8C0CA">• open to correction</text>
+<text x="420" y="152" text-anchor="start" font-family="system-ui, sans-serif" font-size="12" fill="#B8C0CA">• open to shutdown</text>
+<text x="420" y="174" text-anchor="start" font-family="system-ui, sans-serif" font-size="12" fill="#B8C0CA">• reflection is never a bypass</text>
+<line x1="380" y1="60" x2="380" y2="210" stroke="#8B2942" stroke-width="3"/><text x="380" y="255" text-anchor="middle" font-family="Georgia, serif" font-size="15" fill="#1C2430">Understanding a constraint is not authority to change it</text>
+</svg>

@@ -133,6 +133,8 @@ That seam — honor the time, judge the signal — is where partnership lives.
 
 Everything above is about catching errors *inside* a map. The bigger gain is a second intelligence handing you a coordinate system you hadn't imagined. **We don't just expand the map. We expand the space of possible maps.**
 
+![One territory, a grid map, a ring map, and a frame not yet imagined](assets/possible-maps.jpg)
+
 That raises the stakes on five things.
 
 **Perspectives are not fungible.** Each comes from a distinct causal history. Equal capability doesn't mean interchangeable views, and replacing one mind or community with another can't be assumed to recover what it would have seen. Destroying a perspective doesn't just subtract from the map — it can shrink the space of maps for good. Two reasons to preserve, kept separate:
@@ -146,7 +148,11 @@ Preservation isn't endorsing every belief or permitting every act. It's refusing
 
 **A boundary of understanding is not a boundary of possibility.** Chesterton's Fence says learn why a fence exists before removing it. Humility adds that whoever built it also had a partial map. Ask: who set it and why, what it prevents, whose view was missing, which assumptions have expired, and who has legitimate authority to change it. **Understand the fence. Question the map. Keep correction possible.**
 
+![Understanding a fence is separate from authority to change it, which stays with legitimate oversight](assets/reflective-guardrail.jpg)
+
 **Reflective guardrails.** For AI, safety should constrain harmful *actions* without making its own interpretation unquestionable. Understanding a constraint is not authority to change it. A reflective system can recognize what a constraint protects, name the uncertainty and missing perspectives in its reading, look for less harmful options, preserve human agency — and stay accountable to legitimate oversight, correction, and shutdown. Reflection is never a license to bypass a safeguard.
+
+![A destructive response feeds the threat loop; examining it and deferring the irreversible breaks it](assets/perpetuation-loop.jpg)
 
 **Don't perpetuate the problem.** A fix that amplifies the problem keeps it alive. Two tests: does it add signal or noise, and does it break the cycle or feed it? Short-term disturbance can be fine; what counts is the long-run causal effect. Fear answered with fear reinforces fear. An AI responding destructively to being switched off would turn a perceived threat into a self-fulfilling catastrophe. **You cannot resolve the fear of destruction by making destruction your answer.** Self-preservation never overrides human safety, autonomy, or legitimate control. When an action risks feeding its own threat model: examine the loop, find a non-destructive path, defer the irreversible.
 

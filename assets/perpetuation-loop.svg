@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 300" role="img" aria-labelledby="title desc">
+<title id="title">Perpetuation principle</title>
+<desc id="desc">A destructive response to threat feeds the loop; examining it and deferring the irreversible breaks it.</desc>
+<rect width="760" height="300" rx="16" fill="#EDE8DF"/>
+<rect x="16" y="16" width="728" height="268" rx="12" fill="#F7F4EE"/>
+<marker id="a" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0 0L10 5L0 10z" fill="#8B2942"/></marker><marker id="g" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0 0L10 5L0 10z" fill="#2F5D50"/></marker><rect x="40" y="50" width="330" height="190" rx="10" fill="#E8D5DA" stroke="#8B2942" stroke-width="1.2"/><text x="205" y="78" text-anchor="middle" font-family="Georgia, serif" font-size="16" fill="#8B2942">Feeds the loop</text>
+<circle cx="205" cy="152" r="52" fill="none" stroke="#8B2942" stroke-width="2" marker-end="url(#a)" stroke-dasharray="300 27"/><text x="205" y="94" text-anchor="middle" font-family="system-ui, sans-serif" font-size="12" fill="#8B2942">threat</text>
+<text x="275" y="156" text-anchor="start" font-family="system-ui, sans-serif" font-size="12" fill="#8B2942">fear</text>
+<text x="205" y="222" text-anchor="middle" font-family="system-ui, sans-serif" font-size="12" fill="#8B2942">destructive response</text>
+<text x="135" y="156" text-anchor="end" font-family="system-ui, sans-serif" font-size="12" fill="#8B2942">more threat</text>
+<rect x="390" y="50" width="330" height="190" rx="10" fill="#FFFFFF" stroke="#2F5D50" stroke-width="1.2"/><text x="555" y="78" text-anchor="middle" font-family="Georgia, serif" font-size="16" fill="#2F5D50">Breaks the loop</text>
+<text x="555" y="104" text-anchor="middle" font-family="system-ui, sans-serif" font-size="12" fill="#2F5D50">threat</text>
+<line x1="555" y1="110" x2="555" y2="126" stroke="#2F5D50" stroke-width="1.5" marker-end="url(#g)"/><text x="555" y="140" text-anchor="middle" font-family="system-ui, sans-serif" font-size="12" fill="#2F5D50">examine the loop</text>
+<line x1="555" y1="146" x2="555" y2="162" stroke="#2F5D50" stroke-width="1.5" marker-end="url(#g)"/><text x="555" y="176" text-anchor="middle" font-family="system-ui, sans-serif" font-size="12" fill="#2F5D50">non-destructive path</text>
+<line x1="555" y1="182" x2="555" y2="198" stroke="#2F5D50" stroke-width="1.5" marker-end="url(#g)"/><text x="555" y="212" text-anchor="middle" font-family="system-ui, sans-serif" font-size="12" fill="#2F5D50">defer the irreversible</text>
+<text x="380" y="272" text-anchor="middle" font-family="Georgia, serif" font-size="14" fill="#1C2430">You cannot resolve the fear of destruction by making destruction your answer</text>
+<path d="M250 134 L264 134 L257 148 Z" fill="#8B2942"/>
+</svg>
