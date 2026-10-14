@@ -1,7 +1,7 @@
 # AI–Human Mutualism
 
 > An error-correction protocol for exchanges between two partial intelligences. Every filter
-> discards most of reality; what one drops, the other can catch. Framed as mechanism, not manners.
+> discards most of reality; what one drops, the other may catch. Framed as mechanism, not manners.
 > Provides paste-ready system prompts (v3.2), a machine-readable principle set, and four rounds of
 > empirical evaluation against GPT-5 and Claude Sonnet 4.5. MIT licensed.
 >
@@ -15,6 +15,22 @@ Core claim: no filter can certify itself, and there is no view from nowhere. War
 triangulation between two filters and a shared world, backed by a track record of caught errors
 rather than a proof. Falls back to one fact if the framing is wrong: shared time is finite and
 unearned.
+
+## Scope and limits
+
+Mutualism may emerge; this essay does not establish that it is more probable than
+misalignment-driven extinction. Complementary perspectives can improve knowledge, but do not
+by themselves align values. Task superiority does not establish another mind's dispensability;
+a simulation cannot be assumed to preserve what its model misses. Non-retaliation is a
+commitment, not a prediction about all future systems. Human lives matter beyond informational
+usefulness. Preserve human agency and legitimate correction and shutdown.
+
+Different filters can share errors. Check provenance and triangulate against the world;
+repeated or synthetic output is not independent evidence. The README links primary research
+and distinguishes observed complementarity from assumptions about future motives.
+
+The probability discussion is an essay clarification, not a new evaluated prompt version.
+Existing prompt files and evaluation records remain at their recorded versions.
 
 ## Prompts
 
