@@ -118,5 +118,6 @@ These are design judgments, not new behavioral evaluations or evidence about AI 
 ## Validation scope
 
 Content preservation, relative links, historical anchors, Markdown rendering, and desktop/mobile
-presentation are checked for this change. These checks cannot prove reader comprehension or future
-AI compliance. Existing prompt evaluations retain their original scope and limitations.
+presentation are checked for this change. GitHub checks passed at 1200 px and 360 px: both diagrams loaded without horizontal overflow,
+and all three disclosures opened to their intended links. Phone inspection prompted larger diagram
+labels. These checks cannot prove reader comprehension or future AI compliance. Existing prompt evaluations retain their original scope and limitations.
