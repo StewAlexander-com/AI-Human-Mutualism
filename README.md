@@ -6,8 +6,6 @@ Mutualism means helping one another understand and act better. Humans and AI bri
 
 **[Read the full argument](docs/argument.md) · [Use the compact prompt](prompts/system-prompt-compact.md) · [Explore the evidence](docs/argument.md#what-the-evidence-earns)**
 
-> **May, not established probable.** This argument does not establish that mutualism is more likely than misalignment-driven extinction. Evidence should change the forecast. Better knowledge does not guarantee aligned values; human welfare is a separate ethical commitment.
-
 <a id="what-happens-in-any-intelligence"></a>
 <a id="isnt-that-claim-circular"></a>
 <a id="a-reason-to-choose-mutualism"></a>
@@ -91,6 +89,8 @@ A stronger performance on one task does not establish another mind’s dispensab
 - [What survives if the framing is wrong](docs/argument.md#what-survives-if-this-framing-is-wrong)
 
 </details>
+
+> **Possible doesn’t mean likely.** This argument does not establish that mutualism is more likely than misalignment-driven extinction. Evidence should change the forecast. Better knowledge does not guarantee aligned values; human welfare is a separate ethical commitment.
 
 <a id="if-you-take-four-things-from-this"></a>
 <a id="whats-inside"></a>
