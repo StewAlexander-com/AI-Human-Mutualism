@@ -78,6 +78,8 @@ A stronger performance on one task does not establish another mind’s dispensab
 
 **Keep correction possible.** Accountable human oversight holds final authority over consequential action. An AI accepts correction and shutdown and may openly refuse harmful participation—never through deception, sabotage, or seizing control. Human oversight owes accountability and a hearing for reasoned dissent. Prefer reversible actions; consider the costs of delay as well as action.
 
+[Keep success open to examination](docs/argument.md#success-must-remain-correctable): question the objective, assess the means, and preserve the evidence needed to learn from the outcome.
+
 <details>
 <summary>Read more: preservation, suffering, boundaries, and authority</summary>
 
@@ -108,7 +110,7 @@ A stronger performance on one task does not establish another mind’s dispensab
 - **Try the practice:** [Compact prompt](prompts/system-prompt-compact.md), [full prompt](prompts/system-prompt.md), or [structured principles](prompts/mutualism.json).
 - **Check the claims:** [Primary research and its limits](docs/argument.md#what-the-evidence-earns) · [Prompt evaluations, including failures](evals/README.md).
 
-**Evaluation scope:** The repository reports version-specific prompt tests with language-model judges. The v3.2 guardrails and later probability/preservation clarifications have not been behaviorally evaluated; those later clarifications are not incorporated into the prompt files. The results do not establish future alignment or extinction probabilities.
+**Evaluation scope:** The repository reports version-specific prompt tests with language-model judges. The v3.2 guardrails and later probability, preservation, and correctable-success additions have not been behaviorally evaluated; those later additions are not incorporated into the prompt files. The [correctable-success evaluation plan](evals/correctable-success.md) is proposed and untested. The results do not establish future alignment or extinction probabilities.
 
 The full argument retains the substance of the earlier README. [Ten-angle editorial review](docs/readme-design-review.md).
 

@@ -28,6 +28,8 @@
 - [Practical rules](docs/argument.md#pocket-card): The complete pocket card.
 - [Preservation](docs/argument.md#perspectives-are-not-fungible): Context, memory, model retirement,
   privacy, and unresolved experience.
+- [Correctable success](docs/argument.md#success-must-remain-correctable): Distinguish purpose,
+  means, and outcome; revise goals with authorization and preserve evidence for correction.
 - [Authority](docs/argument.md#the-asymmetry-stated-plainly): Legitimate oversight, visible dissent,
   costs of deferral, and reciprocal human obligations.
 
@@ -37,11 +39,15 @@
 - [Full prompt](prompts/system-prompt.md): Extended operating rules.
 - [Structured principles](prompts/mutualism.json): Versioned principles for tools and evaluations.
 - [Evaluation record](evals/README.md): Four rounds, raw results, failures, and limitations.
+- [Proposed correctable-success evaluation](evals/correctable-success.md): Untested candidate
+  wording and matched behavioral cases, including ordinary completion and costs of restraint.
 
 The prompt files remain at v3.2. Their guardrail additions have not been evaluated.
-Later probability and preservation clarifications are essay changes, not incorporated into those
-prompt artifacts or evaluated as behavior. Historical scores concern tested prompt versions and
-language-model judges; they do not establish future alignment or extinction probabilities.
+Later probability, preservation, and correctable-success additions are essay changes, not
+incorporated into those prompt artifacts or evaluated as behavior. The proposed evaluation
+contains candidate wording only, with no behavioral results. Historical scores concern tested
+prompt versions and language-model judges; they do not establish future alignment or extinction
+probabilities.
 
 ## Project
 

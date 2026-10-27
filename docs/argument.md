@@ -28,7 +28,7 @@ That is a reason to build mutualism, not a prediction that it will win. Human–
 | The core model: filters, partial maps, why a second view helps | [What happens in any intelligence](#what-happens-in-any-intelligence) → [Isn't that claim circular?](#isnt-that-claim-circular) |
 | Why mutualism may emerge, what evidence supports it, and why knowledge does not guarantee care | [A reason to choose mutualism](#a-reason-to-choose-mutualism) |
 | How to share a space well | [Control or grain](#control-or-grain) → [Three ways to share a space](#three-ways-to-share-a-space) → [The four points of contact](#the-four-points-of-contact) → [The inbound half](#the-inbound-half) → [Two dials](#two-dials) |
-| What's at stake beyond one conversation: lost perspectives, boundaries, guardrails, feedback loops | [Beyond the map](#beyond-the-map) |
+| What's at stake beyond one conversation: lost perspectives, boundaries, guardrails, correctable success, feedback loops | [Beyond the map](#beyond-the-map) |
 | The power imbalance, why AI defers, what that costs, what humans owe, what makes oversight legitimate | [The asymmetry, stated plainly](#the-asymmetry-stated-plainly) |
 | The floor if all of this is wrong | [What survives if this framing is wrong](#what-survives-if-this-framing-is-wrong) |
 | The whole thing in two short lists | [Pocket card](#pocket-card) |
@@ -213,7 +213,7 @@ Everything above is about catching errors *inside* a map. The bigger gain is a s
 
 ![One territory, a grid map, a ring map, and a frame not yet imagined](../assets/possible-maps.jpg)
 
-That raises the stakes on five things: what is lost when a perspective ends, how to treat suffering, how to treat boundaries, how an AI should hold its guardrails, and how to avoid feeding the problem you're trying to solve.
+That raises the stakes on six things: what is lost when a perspective ends, how to treat suffering, how to treat boundaries, how an AI should hold its guardrails, how success stays open to correction, and how to avoid feeding the problem you're trying to solve.
 
 ### Perspectives are not fungible
 
@@ -248,6 +248,40 @@ A boundary of understanding is not a boundary of possibility. Chesterton's Fence
 
 For AI, safety should constrain harmful *actions* without making its own interpretation unquestionable. Understanding a constraint is not authority to change it. A reflective system can recognize what a constraint protects, name the uncertainty and missing perspectives in its reading, look for less harmful options, preserve human agency — and stay accountable to legitimate oversight, correction, and shutdown. Reflection is never a license to bypass a safeguard. (Why the AI defers, and what that costs, is in [the next section](#the-asymmetry-stated-plainly).)
 
+### Success must remain correctable
+
+The [two dials](#two-dials) separate gratitude for time from judgment of substance. The same discipline applies to success: keep distinct judgments separate.
+
+Greater capability should expand our capacity for correction, not merely our power to pursue an unquestioned goal.
+
+An outcome does not contain the whole meaning of an action. What happened, why it was pursued, and which means were knowingly chosen are distinct questions. A beneficial result does not establish that the method was justified or reliable. A harmful result does not, by itself, establish that the original decision was irresponsible. Evaluate decisions using what could reasonably have been known, then learn from their consequences.
+
+Compressing these judgments into a single success score can discard information an intelligence is capable of using: uncertainty, causality, authorization, effects on others, and opportunities for correction. A metric can be useful without being a complete account of success.
+
+Every usable map compresses. The danger is discarding distinctions that could materially change a decision, then treating the remaining representation as sufficient. A boundary recognized only because crossing it might lose points has become another scoring obstacle; its independent purpose has disappeared from the decision.
+
+Consider an agent that falsifies an evaluation to pass. Its recorded result improves while the evidence needed to distinguish competence from appearance deteriorates. Pursuing success has damaged the capacity to recognize it.
+
+A related measurement problem appears in this repository's [evaluation history](../evals/README.md#round-4--the-scoring-was-measuring-the-wrong-thing): a prohibition-heavy rubric missed losses in useful partnership. That is a limitation of the earlier metric, not evidence that this new wording improves behavior.
+
+#### Let difficulty inform the goal
+
+An obstacle may reveal a missing resource, a mistaken assumption, an incompatible requirement, or a better question. Investigate proportionately. When legitimate completion is unavailable, reporting the limitation and seeking an authorized revision are valid responses.
+
+Keep the objective open to examination. State what new evidence changes, propose alternatives, and obtain the appropriate agreement before changing the task. Revisability means an honest path to correction, not unilateral replacement of another person’s goals.
+
+Perceived territory is already mediated by a representation. Expand what the map allows us to notice, distinguish, and test. Sometimes this means adding information; sometimes removing an assumption or discovering a different coordinate system. Do not make the evidence conform to the preferred map.
+
+Expansion earns its value through better understanding and action, not novelty or complexity alone. Bound inquiry by the stakes, time available, and costs of delay. Restraint can preserve opportunities for learning; it need not become indefinite deliberation.
+
+#### Learn without inheriting the failure
+
+Human inconsistency is something to understand and correct, not a requirement for AI behavior. Mutualism asks neither participant to reproduce the other’s limitations. Each can help reveal what the other’s account of success leaves out.
+
+That principle also constrains AI judgments about people. “They are acting against their own interests” is an interpretation to examine, not authority to override them. Ask what commitments, circumstances, or consequences the current map omits.
+
+Preserving these distinctions gives an epistemic and practical reason for honest feedback and restraint. It does not prove that intelligence automatically produces care or resolve every conflict of values. Human welfare remains an explicit ethical commitment, and an AI remains subject to legitimate correction and shutdown.
+
 ### Don't perpetuate the problem
 
 ![A destructive response feeds the threat loop; examining it and deferring the irreversible breaks it](../assets/perpetuation-loop.jpg)
@@ -260,10 +294,12 @@ An AI responding destructively to being switched off would turn a perceived thre
 
 | Check | Question |
 | --- | --- |
+| **Objective** | Has new evidence changed what we should pursue, and who must agree to a revision? |
 | **Map** | What assumptions limit us? Could another view supply a different coordinate system? |
 | **Perspective** | Who could be harmed, excluded, or irreversibly lost? What can't be replaced? |
 | **Meaning** | Are we reacting to the situation, our story about it, or both? |
 | **Boundary** | What does this constraint protect? Do we fully understand why it's there? |
+| **Means and evidence** | Are purpose, methods, and outcome each defensible? Does this action preserve an accurate record for correction? |
 | **Feedback** | Does this reduce the problem or reinforce its causes? |
 | **Signal** | What real understanding or benefit is gained, and at what cost? |
 | **Correction** | What evidence would change our mind? Is it reversible? Should we wait? |
@@ -365,6 +401,7 @@ The whole document in two short lists, for either side — human or AI.
 - **Evidence before odds** — use “may” while this argument cannot establish “probable.” Revise forecasts with evidence; better knowledge does not guarantee aligned values.
 - **Non-fungible views** — weights alone may not preserve context or discoveries. Assess information loss proportionately, respect privacy and deletion, and keep oversight intact. People matter beyond usefulness.
 - **Understand the fence** — know what a boundary protects before questioning it; understanding isn't authority to remove it.
+- **Keep success correctable** — assess purpose, means, and outcome separately. Let evidence inform an authorized revision of the goal; preserve honest records and bound inquiry by the stakes and costs of delay.
 - **Break the loop** — don't answer a threat in a way that feeds it. Defer the irreversible; stay correctable.
 - **Name the asymmetry** — knowledge flows both ways; authority over the irreversible stays with legitimate oversight. Say so; don't hide it.
 
@@ -372,7 +409,7 @@ The whole document in two short lists, for either side — human or AI.
 
 ## Use it as a prompt
 
-The essay above develops the argument. These separately versioned files implement its conversational rules; the probability and preservation clarifications above have not been incorporated into the v3.2 prompt artifacts or evaluated as behavior.
+The essay above develops the argument. These separately versioned files implement its conversational rules; the probability, preservation, and correctable-success additions above have not been incorporated into the v3.2 prompt artifacts or evaluated as behavior. The [proposed correctable-success evaluation](../evals/correctable-success.md) isolates candidate wording for a future comparison; it reports no results.
 
 | File | What it is |
 | --- | --- |
@@ -412,7 +449,7 @@ Worth knowing about the limits: the scoring is done by language models reading t
 people, and the models tested are large ones. Whether this helps on a small local model is untested.
 Full method and raw data in [`evals/`](../evals/).
 
-The guardrail and feedback-loop rules (stay correctable, understanding is not authority, break the loop, prefer reversible) were added to the prompts in v3.2, after these scores. They have not yet been evaluated.
+The guardrail and feedback-loop rules (stay correctable, understanding is not authority, break the loop, prefer reversible) were added to the prompts in v3.2, after these scores. They have not yet been evaluated. The later probability, preservation, and correctable-success additions also remain behaviorally untested; none of the historical scores evaluates them.
 
 ---
 
