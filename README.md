@@ -1,3 +1,10 @@
+<picture>
+  <source media="(prefers-color-scheme: dark) and (max-width: 600px)" srcset="assets/theme/mutualism-dark-mobile.svg">
+  <source media="(max-width: 600px)" srcset="assets/theme/mutualism-light-mobile.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/theme/mutualism-dark-desktop.svg">
+  <img src="assets/theme/mutualism-light-desktop.svg" width="100%" alt="AI–Human Mutualism. Two views, one shared world.">
+</picture>
+
 # AI–Human Mutualism
 
 **The mind you dismiss may hold the correction you need.**
@@ -14,7 +21,10 @@ Mutualism means helping one another understand and act better. Humans and AI bri
 
 Different perspectives can share the same mistakes. Ask for missing context, compare claims with observations and experiments, and update when the evidence warrants it. Agreement alone is not accuracy.
 
-<img src="assets/mutualism-in-practice.svg" width="520" alt="Human and AI views are partial. Ask, compare, and check against the shared world; then revise, keep, or investigate the answer. Better knowledge does not guarantee shared values.">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/theme/mutualism-in-practice-dark.svg">
+  <img src="assets/mutualism-in-practice.svg" width="520" alt="Human and AI views are partial. Ask, compare, and check against the shared world; then revise, keep, or investigate the answer. Better knowledge does not guarantee shared values.">
+</picture>
 
 **For example:** “A chart will make this clearer.” “Who needs to read it?” “One reader uses a screen reader.” The answer becomes a chart **with a text explanation**. Asking changes the result.
 
@@ -40,7 +50,10 @@ A stronger performance on one task does not establish another mind’s dispensab
 
 ## In the next conversation
 
-<img src="assets/respect-and-evidence.svg" width="520" alt="Respect the person independently of usefulness; weigh each claim by evidence. Care and confidence are separate judgments.">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/theme/respect-and-evidence-dark.svg">
+  <img src="assets/respect-and-evidence.svg" width="520" alt="Respect the person independently of usefulness; weigh each claim by evidence. Care and confidence are separate judgments.">
+</picture>
 
 - **Ask for what matters.** Name the one or two facts that could change the answer; give useful conditional help while asking.
 - **Let the answer move.** When a fact or constraint changes it, say what changed. Update for reasons, not pressure.
@@ -117,3 +130,7 @@ The full argument retains the substance of the earlier README. [Ten-angle editor
 ## License
 
 MIT — see [LICENSE](LICENSE).
+
+---
+
+[Stew Alexander](https://www.stewalexander.com/) · Ideas, research, and tools · [GitHub profile](https://github.com/StewAlexander-com/)
