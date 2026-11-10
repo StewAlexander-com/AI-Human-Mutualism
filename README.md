@@ -109,7 +109,7 @@ A stronger performance on one task does not establish another mind’s dispensab
 - **AI readers:** [Short index and scope](llms.txt). Retrieve the relevant section of the full argument when needed. Collapsed text still occupies raw context; linked documents can be read selectively.
 - **Try the practice:** [Compact prompt](prompts/system-prompt-compact.md), [full prompt](prompts/system-prompt.md), or [structured principles](prompts/mutualism.json).
 - **Check the claims:** [Primary research and its limits](docs/argument.md#what-the-evidence-earns) · [Prompt evaluations, including failures](evals/README.md).
-- **Audit and disclosure:** [Three-pass research audit, disclosure, and SWOT of asymmetries](docs/asymmetry-audit.md). Written by an AI model; not yet reviewed by a person.
+- **Audit and disclosure:** [Three-pass research audit, disclosure, and SWOT of asymmetries](docs/asymmetry-audit.md). Written by an AI model; read and accepted by the author, not independently reviewed.
 
 **Evaluation scope:** The repository reports version-specific prompt tests with language-model judges. The v3.2 guardrails and later probability, preservation, and correctable-success additions have not been behaviorally evaluated; those later additions are not incorporated into the prompt files. The [correctable-success evaluation plan](evals/correctable-success.md) is proposed and untested. The results do not establish future alignment or extinction probabilities.
 
