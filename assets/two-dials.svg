@@ -2,7 +2,7 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 300" role="img" aria-labelledby="title desc">
   <title id="title">Two dials</title>
   <desc id="desc">Gratitude dial stays constant for time spent. Resolution dial varies with signal quality. Mixing them causes tolerance or contempt.</desc>
-<style>@media (prefers-reduced-motion: reduce){*{animation:none!important}}.swing{transform-origin:380px 130px;animation:swing 4s ease-in-out infinite alternate}@keyframes swing{from{transform:rotate(-80deg)}to{transform:rotate(35deg)}}.ka{animation:k 5s ease-in-out infinite}.kb{animation:k 5s ease-in-out -2.5s infinite}@keyframes k{0%,100%{opacity:1}50%{opacity:.25}}</style>
+<style>@media (prefers-reduced-motion: reduce){*{animation:none!important}}.swing{animation:swing 4s ease-in-out infinite alternate}@keyframes swing{from{transform:rotate(-80deg)}to{transform:rotate(35deg)}}.ka{animation:k 6s ease-in-out infinite}.kb{animation:k 6s ease-in-out -3s infinite}@keyframes k{0%,100%{opacity:1}50%{opacity:.4}}</style>
   <rect width="760" height="300" rx="16" fill="#EDE8DF"/>
   <rect x="16" y="16" width="728" height="268" rx="12" fill="#F7F4EE"/>
   <circle cx="180" cy="130" r="70" fill="#FFFFFF" stroke="#2A6F6A" stroke-width="3"/>
@@ -12,7 +12,7 @@
   <text x="180" y="250" text-anchor="middle" font-family="system-ui, sans-serif" font-size="12" fill="#5A6573">time spent - constant</text>
   <circle cx="380" cy="130" r="70" fill="#FFFFFF" stroke="#C45C26" stroke-width="3"/>
   <circle cx="380" cy="130" r="8" fill="#C45C26"/>
-  <line class="swing" x1="380" y1="130" x2="430" y2="90" stroke="#C45C26" stroke-width="4" stroke-linecap="round"/>
+  <g transform="translate(380 130)"><line class="swing" x1="0" y1="0" x2="50" y2="-40" stroke="#C45C26" stroke-width="4" stroke-linecap="round"/></g>
   <text x="380" y="230" text-anchor="middle" font-family="Georgia, serif" font-size="16" fill="#C45C26">Resolution</text>
   <text x="380" y="250" text-anchor="middle" font-family="system-ui, sans-serif" font-size="12" fill="#5A6573">signal quality - variable</text>
   <rect x="490" y="60" width="226" height="140" rx="12" fill="#FFFFFF" stroke="#D0D5DC"/>

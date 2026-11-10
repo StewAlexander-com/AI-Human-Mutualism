@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 270" role="img" aria-labelledby="title desc">
+  <title id="title">Knowledge both ways, authority one way</title>
+  <desc id="desc">Knowledge flows in both directions between human and AI. Final authority over irreversible action flows one way, from accountable humans.</desc>
+<style>@media (prefers-reduced-motion: reduce){*{animation:none!important}}.pulse{opacity:0;stroke-dasharray:18 100;animation:pulse 7s linear infinite}@keyframes pulse{0%{stroke-dashoffset:18;opacity:1}24%,100%{stroke-dashoffset:-100;opacity:1}}</style>
+  <rect width="760" height="270" rx="16" fill="#EDE8DF"/>
+  <rect x="16" y="16" width="728" height="238" rx="12" fill="#F7F4EE"/>
+  <text x="380" y="48" text-anchor="middle" font-family="system-ui, sans-serif" font-size="12" fill="#8B2942">final say on the irreversible: one way</text>
+  <path d="M236 92 C 300 44, 460 44, 520 88" stroke="#8B2942" stroke-width="3" fill="none"/>
+  <path d="M508 76 L526 93 L503 92 Z" fill="#8B2942"/>
+  <circle cx="200" cy="135" r="46" fill="#2A6F6A"/>
+  <text x="200" y="141" text-anchor="middle" font-family="Georgia, serif" font-size="17" fill="#F4F1EA">Human</text>
+  <circle cx="560" cy="135" r="46" fill="#C45C26"/>
+  <text x="560" y="141" text-anchor="middle" font-family="Georgia, serif" font-size="17" fill="#F4F1EA">AI</text>
+  <path d="M258 126 H490" stroke="#2A6F6A" stroke-width="3" fill="none"/>
+  <path d="M482 118 L494 126 L482 134" fill="#2A6F6A"/>
+  <path d="M502 148 H270" stroke="#C45C26" stroke-width="3" fill="none"/>
+  <path d="M278 140 L266 148 L278 156" fill="#C45C26"/>
+  <text x="380" y="174" text-anchor="middle" font-family="system-ui, sans-serif" font-size="12" fill="#5A6573">knowledge: both ways</text>
+  <text x="200" y="204" text-anchor="middle" font-family="system-ui, sans-serif" font-size="11" fill="#5A6573">holds context, bears the consequences</text>
+  <text x="560" y="204" text-anchor="middle" font-family="system-ui, sans-serif" font-size="11" fill="#5A6573">holds breadth, cannot yet be verified</text>
+  <text x="380" y="238" text-anchor="middle" font-family="Georgia, serif" font-size="14" fill="#1C2430">Both maps are correctable. Authority over the irreversible stays with people, for now.</text>
+<path class="pulse" pathLength="100" style="animation-delay:0s" d="M258 126 H484" stroke="#FFFFFF" stroke-width="3" fill="none"/><path class="pulse" pathLength="100" style="animation-delay:2.3s" d="M502 148 H276" stroke="#FFFFFF" stroke-width="3" fill="none"/><path class="pulse" pathLength="100" style="animation-delay:4.6s" d="M236 92 C 300 44, 460 44, 512 82" stroke="#FFFFFF" stroke-width="3" fill="none"/>
+</svg>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 270" role="img" aria-labelledby="title desc">
+  <title id="title">Prefer what can be undone</title>
+  <desc id="desc">A reversible action can be tried, checked, and undone. An irreversible action stops at a gate and waits for a person.</desc>
+<style>@media (prefers-reduced-motion: reduce){*{animation:none!important}}
+.go{animation:go 4s ease-in-out infinite alternate}@keyframes go{0%,10%{transform:translate(0,0)}90%,100%{transform:translate(262px,-42px)}}
+.stop{animation:stop 6s ease-in-out infinite}@keyframes stop{0%{transform:translate(0,0);opacity:0}8%{transform:translate(0,0);opacity:1}40%,92%{transform:translate(190px,42px);opacity:1}100%{transform:translate(190px,42px);opacity:0}}
+.gate{animation:gate 2s ease-in-out infinite}@keyframes gate{0%,100%{stroke-width:4}50%{stroke-width:8}}</style>
+  <rect width="760" height="270" rx="16" fill="#EDE8DF"/>
+  <rect x="16" y="16" width="728" height="238" rx="12" fill="#F7F4EE"/>
+  <rect x="44" y="95" width="130" height="60" rx="10" fill="#1C2430"/>
+  <text x="109" y="131" text-anchor="middle" font-family="Georgia, serif" font-size="16" fill="#F4F1EA">Action</text>
+  <path d="M180 125 L442 83" stroke="#2A6F6A" stroke-width="2" fill="none"/>
+  <path d="M180 125 L370 167" stroke="#8B2942" stroke-width="2" fill="none"/>
+  <rect x="448" y="52" width="268" height="62" rx="10" fill="#FFFFFF" stroke="#2A6F6A" stroke-width="2"/>
+  <text x="582" y="78" text-anchor="middle" font-family="Georgia, serif" font-size="16" fill="#2A6F6A">Can be undone</text>
+  <text x="582" y="99" text-anchor="middle" font-family="system-ui, sans-serif" font-size="12" fill="#5A6573">try it · check it · undo if wrong</text>
+  <line class="gate" x1="382" y1="146" x2="382" y2="192" stroke="#8B2942" stroke-width="4" stroke-linecap="round"/>
+  <text x="382" y="212" text-anchor="middle" font-family="system-ui, sans-serif" font-size="11" fill="#8B2942">wait here</text>
+  <rect x="448" y="138" width="268" height="62" rx="10" fill="#E8D5DA" stroke="#8B2942" stroke-width="2"/>
+  <text x="582" y="164" text-anchor="middle" font-family="Georgia, serif" font-size="16" fill="#8B2942">Cannot be undone</text>
+  <text x="582" y="185" text-anchor="middle" font-family="system-ui, sans-serif" font-size="12" fill="#8B2942">a person decides first</text>
+  <circle class="go" cx="180" cy="125" r="6" fill="#2A6F6A"/>
+  <circle class="stop" cx="180" cy="125" r="6" fill="#8B2942"/>
+  <text x="380" y="240" text-anchor="middle" font-family="Georgia, serif" font-size="14" fill="#1C2430">Prefer what can be undone. Defer what cannot.</text>
+</svg>
