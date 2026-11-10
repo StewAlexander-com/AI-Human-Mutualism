@@ -21,7 +21,7 @@
 ## Read selectively
 
 - [Short overview](README.md): Main practice, two diagrams, visible limits, and read-more links.
-- [Full argument](docs/argument.md): Complete reasoning and all original illustrations.
+- [Full argument](docs/argument.md): Complete reasoning and all illustrations (animated; static with reduced motion).
 - [Argument and limits](docs/argument.md#the-argument-and-where-it-stops): Partial maps,
   non-fungibility, complementarity, and the knowledge–values gap.
 - [Evidence](docs/argument.md#what-the-evidence-earns): Primary research with bounded claims.
@@ -32,6 +32,8 @@
   means, and outcome; revise goals with authorization and preserve evidence for correction.
 - [Authority](docs/argument.md#the-asymmetry-stated-plainly): Legitimate oversight, visible dissent,
   costs of deferral, and reciprocal human obligations.
+- [Audit and disclosure](docs/asymmetry-audit.md): AI-written three-pass check against outside
+  research, disclosure of conflicts, and SWOT of asymmetries. Not reviewed by a person.
 
 ## Prompts and measured scope
 

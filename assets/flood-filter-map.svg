@@ -2,22 +2,24 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 280" role="img" aria-labelledby="title desc">
   <title id="title">Flood to filter to map</title>
   <desc id="desc">Raw flood passes through a filter and becomes a partial map; two different maps cover different ground.</desc>
+<style>@media (prefers-reduced-motion: reduce){*{animation:none!important}}.flow{stroke-dasharray:7 5;animation:flow 1s linear infinite}@keyframes flow{from{stroke-dashoffset:24}to{stroke-dashoffset:0}}.march{animation:march 2.4s linear infinite}@keyframes march{to{stroke-dashoffset:-18}}.p{opacity:0;animation:p 2.5s linear infinite}@keyframes p{0%{transform:translateX(0);opacity:0}15%,80%{opacity:1}100%{transform:translateX(54px);opacity:0}}</style>
   <rect width="760" height="280" rx="16" fill="#EDE8DF"/>
   <rect x="16" y="16" width="728" height="248" rx="12" fill="#F7F4EE"/>
   <rect x="44" y="78" width="140" height="124" rx="10" fill="#D9E2EC"/>
   <text x="114" y="130" text-anchor="middle" font-family="Georgia, serif" font-size="15" fill="#1C2430">Raw flood</text>
   <text x="114" y="152" text-anchor="middle" font-family="system-ui, sans-serif" font-size="11" fill="#5A6573">more than fits</text>
-  <path d="M196 140 H238" stroke="#1C2430" stroke-width="2" fill="none"/>
+  <path class="flow" d="M196 140 H238" stroke="#1C2430" stroke-width="2" fill="none"/>
   <path d="M230 132 L242 140 L230 148" fill="#1C2430"/>
   <rect x="250" y="78" width="140" height="124" rx="10" fill="#2A6F6A"/>
   <text x="320" y="130" text-anchor="middle" font-family="Georgia, serif" font-size="15" fill="#F4F1EA">Filter</text>
   <text x="320" y="152" text-anchor="middle" font-family="system-ui, sans-serif" font-size="11" fill="#D7EBE9">selects - drops - warps</text>
-  <path d="M402 140 H444" stroke="#1C2430" stroke-width="2" fill="none"/>
+  <path class="flow" d="M402 140 H444" stroke="#1C2430" stroke-width="2" fill="none"/>
   <path d="M436 132 L448 140 L436 148" fill="#1C2430"/>
   <rect x="456" y="78" width="140" height="124" rx="10" fill="#1C2430"/>
   <text x="526" y="130" text-anchor="middle" font-family="Georgia, serif" font-size="15" fill="#F4F1EA">Partial map</text>
   <text x="526" y="152" text-anchor="middle" font-family="system-ui, sans-serif" font-size="11" fill="#B8C0CA">usable sketch</text>
-  <rect x="612" y="100" width="104" height="80" rx="10" fill="none" stroke="#C45C26" stroke-width="2" stroke-dasharray="5 4"/>
+  <rect class="march" x="612" y="100" width="104" height="80" rx="10" fill="none" stroke="#C45C26" stroke-width="2" stroke-dasharray="5 4"/>
   <text x="664" y="138" text-anchor="middle" font-family="Georgia, serif" font-size="13" fill="#C45C26">Other map</text>
   <text x="664" y="158" text-anchor="middle" font-family="system-ui, sans-serif" font-size="10" fill="#C45C26">different edges</text>
+<circle class="p" style="animation-delay:0s" cx="190" cy="118" r="3" fill="#5A6573"/><circle class="p" style="animation-delay:0.5s" cx="190" cy="128" r="3" fill="#5A6573"/><circle class="p" style="animation-delay:1.0s" cx="190" cy="152" r="3" fill="#5A6573"/><circle class="p" style="animation-delay:1.5s" cx="190" cy="162" r="3" fill="#5A6573"/><circle class="p" style="animation-delay:2.0s" cx="190" cy="123" r="3" fill="#5A6573"/><circle class="p" style="animation-delay:0.25s" cx="190" cy="157" r="3" fill="#5A6573"/><circle class="p" style="animation-delay:0.8s" cx="396" cy="128" r="3" fill="#2A6F6A"/><circle class="p" style="animation-delay:2.0s" cx="396" cy="152" r="3" fill="#2A6F6A"/>
 </svg>

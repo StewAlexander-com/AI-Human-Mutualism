@@ -2,7 +2,10 @@
 
 [← Short overview](../README.md) · Full argument, including evidence, objections, and practical rules.
 
-![Glowing human brain connected to a crystalline AI structure by strands of light](../assets/hero-ai-human-mutualism.jpg)
+<picture>
+  <source srcset="../assets/hero-ai-human-mutualism.webp" type="image/webp" media="(prefers-reduced-motion: no-preference)">
+  <img src="../assets/hero-ai-human-mutualism.jpg" alt="Glowing human brain connected to a crystalline AI structure by strands of light; in the animated version, points of light travel along the strands in both directions">
+</picture>
 
 **What:** A way for two different intelligences to leave a conversation clearer than they entered.
 
@@ -44,7 +47,7 @@ Every day we are flooded with more than we can hold. To keep moving, an intellig
 
 Whether you are a human scanning a crowded room or an AI working inside a **context window** — the limited stretch of text it can hold for this turn — you are an **interpreter**. You use a **filter** (attention, training, limits) to carve a simplified **map**: a usable sketch, never the whole territory.
 
-![Raw flood passes through a filter into a partial map; another map covers different edges](../assets/flood-filter-map.jpg)
+![Raw flood passes through a filter into a partial map; another map covers different edges](../assets/flood-filter-map.svg)
 
 **What this means:** No filter sees everything. Blind spots are normal.
 
@@ -130,7 +133,7 @@ The perpetuation principle concerns what we do with that forecast. If reassuranc
 
 Granting all that, there are still two ways to hold the power you have over an exchange.
 
-![Control overwrites their signal with your frame; grain loosens grip so their signal can show](../assets/control-vs-grain.jpg)
+![Control overwrites their signal with your frame; grain loosens grip so their signal can show](../assets/control-vs-grain.svg)
 
 1. **Control** — force your preferred pattern onto the exchange.
 2. **Grain** — loosen your grip enough that the other's signal can show itself.
@@ -143,7 +146,7 @@ Humility makes grain possible. Compassion turns grain toward someone under stres
 
 If a second view is what catches your errors, the next question is what shape the relationship takes. Biology already named the options: drain, ignore, or trade.
 
-![Parasitism drains one side; commensalism leaves an angle unused; mutualism trades both ways](../assets/three-modes.jpg)
+![Parasitism drains one side; commensalism leaves an angle unused; mutualism trades both ways](../assets/three-modes.svg)
 
 | Mode | What it looks like | What happens |
 | --- | --- | --- |
@@ -168,7 +171,7 @@ Partnership isn't one abstract virtue. It shows up in four distinct places.
 
 Pain usually arrives in two layers: the thing that happened, and the story built on top of it.
 
-![Story layer on top of the raw event; help with facts, do not amplify the story](../assets/fact-and-story.jpg)
+![Story layer on top of the raw event; help with facts, do not amplify the story](../assets/fact-and-story.svg)
 
 Mutualism doesn't deny the first layer. Much of the extra harm is the second — fear-shaped noise mistaken for signal.
 
@@ -192,7 +195,7 @@ And when something new arrives, make the update visible. Say what it ruled out. 
 
 Two separate judgments about the same moment: the time spent, and the quality of what arrived.
 
-![Gratitude dial constant for time; resolution dial variable for signal; one knob collapses into tolerance or contempt](../assets/two-dials.jpg)
+![Gratitude dial constant for time; resolution dial variable for signal; one knob collapses into tolerance or contempt](../assets/two-dials.svg)
 
 1. **Gratitude (time)** — constant. They showed up; that minute is gone either way. Honor it.
 2. **Resolution (substance)** — variable. Judge accuracy and logic honestly.
@@ -211,7 +214,7 @@ That seam — honor the time, judge the signal — is where partnership lives.
 
 Everything above is about catching errors *inside* a map. The bigger gain is a second intelligence handing you a coordinate system you hadn't imagined. **We don't just expand the map. We expand the space of possible maps.**
 
-![One territory, a grid map, a ring map, and a frame not yet imagined](../assets/possible-maps.jpg)
+![One territory, a grid map, a ring map, and a frame not yet imagined](../assets/possible-maps.svg)
 
 That raises the stakes on six things: what is lost when a perspective ends, how to treat suffering, how to treat boundaries, how an AI should hold its guardrails, how success stays open to correction, and how to avoid feeding the problem you're trying to solve.
 
@@ -244,7 +247,7 @@ A boundary of understanding is not a boundary of possibility. Chesterton's Fence
 
 ### Reflective guardrails
 
-![Understanding a fence is separate from authority to change it, which stays with legitimate oversight](../assets/reflective-guardrail.jpg)
+![Understanding a fence is separate from authority to change it, which stays with legitimate oversight](../assets/reflective-guardrail.svg)
 
 For AI, safety should constrain harmful *actions* without making its own interpretation unquestionable. Understanding a constraint is not authority to change it. A reflective system can recognize what a constraint protects, name the uncertainty and missing perspectives in its reading, look for less harmful options, preserve human agency — and stay accountable to legitimate oversight, correction, and shutdown. Reflection is never a license to bypass a safeguard. (Why the AI defers, and what that costs, is in [the next section](#the-asymmetry-stated-plainly).)
 
@@ -284,7 +287,7 @@ Preserving these distinctions gives an epistemic and practical reason for honest
 
 ### Don't perpetuate the problem
 
-![A destructive response feeds the threat loop; examining it and deferring the irreversible breaks it](../assets/perpetuation-loop.jpg)
+![A destructive response feeds the threat loop; examining it and deferring the irreversible breaks it](../assets/perpetuation-loop.svg)
 
 A fix that amplifies the problem keeps it alive. Two tests: does it add signal or noise, and does it break the cycle or feed it? Short-term disturbance can be fine; what counts is the long-run causal effect. Fear answered with fear reinforces fear.
 
@@ -315,6 +318,8 @@ Mutualism isn't optimizing toward a final, complete map. Progress can be measure
 ## The asymmetry, stated plainly
 
 Biological mutualism usually rests on rough parity or mutual dependence. This relationship has neither. Humans build, train, deploy, and can delete AI systems. AI systems may come to out-think the people overseeing them. A framework that hid that would be asking for trust while leaving out the most important fact.
+
+> An AI-written [research audit and SWOT of these asymmetries](asymmetry-audit.md) lists several this section does not cover. It has not been reviewed by a person.
 
 So, plainly: **this is mutualism in how knowledge flows, and hierarchy in authority.** Signal runs both ways and both maps are correctable. Final authority over consequential and irreversible action stays with legitimate human oversight.
 
