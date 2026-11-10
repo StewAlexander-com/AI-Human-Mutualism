@@ -1,7 +1,7 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 520 480" role="img" aria-labelledby="title desc">
   <title id="title">Two partial views, one shared-world check</title>
   <desc id="desc">Human and AI views are partial. Ask, compare, and check against the shared world, then revise, keep, or investigate the answer. Evidence can improve the answer; better knowledge does not guarantee shared values.</desc>
-<style>@media (prefers-reduced-motion: reduce){*{animation:none!important}}.flow{stroke-dasharray:7 5;animation:flow 1s linear infinite}@keyframes flow{from{stroke-dashoffset:24}to{stroke-dashoffset:0}}.o{animation:o 6s ease-in-out infinite}.o2{animation-delay:2s}.o3{animation-delay:4s}@keyframes o{0%,34%,100%{fill:#ffffff;stroke:#869692}10%,24%{fill:#dcebe7;stroke:#2a6f6a}}</style>
+<style>@media (prefers-reduced-motion: reduce){*{animation:none!important}}.pulse{opacity:0;stroke-dasharray:18 100;animation:pin 9s linear infinite}.out{animation-name:pout}@keyframes pin{0%{stroke-dashoffset:18;opacity:1}13%,100%{stroke-dashoffset:-100;opacity:1}}@keyframes pout{0%,13%{stroke-dashoffset:18;opacity:1}27%,100%{stroke-dashoffset:-100;opacity:1}}.o1{animation:o1 9s ease-in-out infinite}.o2{animation:o2 9s ease-in-out infinite}.o3{animation:o3 9s ease-in-out infinite}@keyframes o1{0%,26%,48%,100%{fill:#ffffff;stroke:#869692}30%,44%{fill:#dcebe7;stroke:#2a6f6a}}@keyframes o2{0%,46%,68%,100%{fill:#ffffff;stroke:#869692}50%,64%{fill:#dcebe7;stroke:#2a6f6a}}@keyframes o3{0%,66%,88%,100%{fill:#ffffff;stroke:#869692}70%,84%{fill:#dcebe7;stroke:#2a6f6a}}</style>
   <defs>
     <marker id="arrow" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse"><path d="M0 0 10 5 0 10z" fill="#52646a"/></marker>
   </defs>
@@ -11,12 +11,13 @@
     <rect x="276" y="24" width="220" height="84" rx="14" fill="#e4e9f0" stroke="#4d6380" stroke-width="2"/>
     <g fill="#1c3034" font-size="26" font-weight="700"><text x="134" y="61">Human view</text><text x="386" y="61">AI view</text></g>
     <g fill="#45575a" font-size="24"><text x="134" y="89">partial</text><text x="386" y="89">partial</text></g>
-    <g fill="none" stroke="#52646a" stroke-width="2.5" marker-end="url(#arrow)"><path class="flow" d="M134 108V130H218V153"/><path class="flow" d="M386 108V130H302V153"/></g>
+    <g fill="none" stroke="#52646a" stroke-width="2.5" marker-end="url(#arrow)"><path d="M134 108V130H218V153"/><path d="M386 108V130H302V153"/></g>
     <rect x="44" y="158" width="432" height="100" rx="14" fill="#203b3f"/>
     <text x="260" y="199" fill="#ffffff" font-size="27" font-weight="700">Ask · compare · check</text>
     <text x="260" y="232" fill="#e3ece8" font-size="25">Against the shared world</text>
-    <g fill="none" stroke="#52646a" stroke-width="2.5" marker-end="url(#arrow)"><path class="flow" d="M260 258V280H96V309"/><path class="flow" d="M260 258V309"/><path class="flow" d="M260 280H424V309"/></g>
-    <g fill="#ffffff" stroke="#869692" stroke-width="1.5"><rect class="o" x="24" y="314" width="144" height="65" rx="12"/><rect class="o o2" x="188" y="314" width="144" height="65" rx="12"/><rect class="o o3" x="352" y="314" width="144" height="65" rx="12"/></g>
+    <g fill="none" stroke="#52646a" stroke-width="2.5" marker-end="url(#arrow)"><path d="M260 258V280H96V309"/><path d="M260 258V309"/><path d="M260 280H424V309"/></g>
+    <g><path class="pulse" pathLength="100" style="animation-delay:0s" d="M134 108V130H218V153" stroke="#FFFFFF" stroke-width="2.5" fill="none"/><path class="pulse" pathLength="100" style="animation-delay:0s" d="M386 108V130H302V153" stroke="#FFFFFF" stroke-width="2.5" fill="none"/><path class="pulse out" pathLength="100" style="animation-delay:0s" d="M260 258V280H96V309" stroke="#FFFFFF" stroke-width="2.5" fill="none"/><path class="pulse out" pathLength="100" style="animation-delay:0s" d="M260 258V309" stroke="#FFFFFF" stroke-width="2.5" fill="none"/><path class="pulse out" pathLength="100" style="animation-delay:0s" d="M260 280H424V309" stroke="#FFFFFF" stroke-width="2.5" fill="none"/></g>
+    <g fill="#ffffff" stroke="#869692" stroke-width="1.5"><rect class="o1" x="24" y="314" width="144" height="65" rx="12"/><rect class="o2" x="188" y="314" width="144" height="65" rx="12"/><rect class="o3" x="352" y="314" width="144" height="65" rx="12"/></g>
     <g fill="#203b3f" font-size="25" font-weight="700"><text x="96" y="354">Revise</text><text x="260" y="354">Keep</text><text x="424" y="354">Investigate</text></g>
     <text x="260" y="420" fill="#203b3f" font-size="25">Evidence can improve the answer.</text>
     <text x="260" y="453" fill="#6d3e28" font-size="25" font-weight="700">Better knowledge ≠ shared values.</text>

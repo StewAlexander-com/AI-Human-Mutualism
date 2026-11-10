@@ -2,7 +2,7 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 240" role="img" aria-labelledby="title desc">
   <title id="title">Fact and story layers</title>
   <desc id="desc">The raw event sits under an optional narrative layer that is easy to amplify.</desc>
-<style>@media (prefers-reduced-motion: reduce){*{animation:none!important}}.story{animation:story 5s ease-in-out infinite}@keyframes story{0%,100%{opacity:1;transform:translateY(0)}50%{opacity:.3;transform:translateY(-6px)}}</style>
+<style>@media (prefers-reduced-motion: reduce){*{animation:none!important}}.story{animation:story 6s ease-in-out infinite}@keyframes story{0%,20%,100%{opacity:1;transform:translateY(0)}60%{opacity:.3;transform:translateY(-6px)}}</style>
   <rect width="760" height="240" rx="16" fill="#EDE8DF"/>
   <rect x="16" y="16" width="728" height="208" rx="12" fill="#F7F4EE"/>
   <g class="story"><rect x="100" y="48" width="560" height="56" rx="10" fill="#E8D5DA" stroke="#8B2942" stroke-width="1.5"/>

@@ -2,8 +2,7 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 270" role="img" aria-labelledby="title desc">
   <title id="title">Ask, then show the answer move</title>
   <desc id="desc">A question arrives. The assistant asks for one fact only the other person holds. When that fact arrives, the answer changes from a chart to a chart with a text explanation.</desc>
-<style>@media (prefers-reduced-motion: reduce){*{animation:none!important}}.flow{stroke-dasharray:7 5;animation:flow 1s linear infinite}@keyframes flow{from{stroke-dashoffset:24}to{stroke-dashoffset:0}}
-.t1{opacity:0;animation:t1 8s ease-in-out infinite}@keyframes t1{0%,44%{opacity:1}52%,100%{opacity:0}}
+<style>@media (prefers-reduced-motion: reduce){*{animation:none!important}}.t1{opacity:0;animation:t1 8s ease-in-out infinite}@keyframes t1{0%,44%{opacity:1}52%,100%{opacity:0}}
 .t2{animation:t2 8s ease-in-out infinite}@keyframes t2{0%,46%{opacity:0}54%,100%{opacity:1}}
 .fact{opacity:0;animation:fact 8s ease-in-out infinite}@keyframes fact{0%,18%{transform:translate(0,0);opacity:0}24%{transform:translate(0,0);opacity:1}48%{transform:translate(156px,-40px);opacity:1}56%,100%{transform:translate(156px,-40px);opacity:0}}
 .ring{animation:ring 8s ease-in-out infinite}@keyframes ring{0%,46%,70%,100%{stroke:#1C2430;stroke-width:0}50%,60%{stroke:#C45C26;stroke-width:4}}</style>
@@ -12,12 +11,12 @@
   <rect x="44" y="60" width="180" height="90" rx="10" fill="#D9E2EC"/>
   <text x="134" y="98" text-anchor="middle" font-family="Georgia, serif" font-size="16" fill="#1C2430">Question</text>
   <text x="134" y="122" text-anchor="middle" font-family="system-ui, sans-serif" font-size="12" fill="#5A6573">"make this clearer"</text>
-  <path class="flow" d="M236 105 H278" stroke="#1C2430" stroke-width="2" fill="none"/>
+  <path d="M236 105 H278" stroke="#1C2430" stroke-width="2" fill="none"/>
   <path d="M270 97 L282 105 L270 113" fill="#1C2430"/>
   <rect x="290" y="60" width="180" height="90" rx="10" fill="#2A6F6A"/>
   <text x="380" y="98" text-anchor="middle" font-family="Georgia, serif" font-size="16" fill="#F4F1EA">Ask one fact</text>
   <text x="380" y="122" text-anchor="middle" font-family="system-ui, sans-serif" font-size="12" fill="#D7EBE9">"who needs to read it?"</text>
-  <path class="flow" d="M482 105 H524" stroke="#1C2430" stroke-width="2" fill="none"/>
+  <path d="M482 105 H524" stroke="#1C2430" stroke-width="2" fill="none"/>
   <path d="M516 97 L528 105 L516 113" fill="#1C2430"/>
   <rect class="ring" x="536" y="60" width="180" height="90" rx="10" fill="#1C2430"/>
   <text x="626" y="98" text-anchor="middle" font-family="Georgia, serif" font-size="16" fill="#F4F1EA">Answer</text>
