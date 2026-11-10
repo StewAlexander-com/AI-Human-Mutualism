@@ -33,7 +33,7 @@
 - [Authority](docs/argument.md#the-asymmetry-stated-plainly): Legitimate oversight, visible dissent,
   costs of deferral, and reciprocal human obligations.
 - [Audit and disclosure](docs/asymmetry-audit.md): AI-written three-pass check against outside
-  research, disclosure of conflicts, and SWOT of asymmetries. Not reviewed by a person.
+  research, disclosure of conflicts, and SWOT of asymmetries. Accepted by the author; not independently reviewed.
 
 ## Prompts and measured scope
 

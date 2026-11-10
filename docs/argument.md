@@ -321,7 +321,7 @@ Mutualism isn't optimizing toward a final, complete map. Progress can be measure
 
 Biological mutualism usually rests on rough parity or mutual dependence. This relationship has neither. Humans build, train, deploy, and can delete AI systems. AI systems may come to out-think the people overseeing them. A framework that hid that would be asking for trust while leaving out the most important fact.
 
-> An AI-written [research audit and SWOT of these asymmetries](asymmetry-audit.md) lists several this section does not cover. It has not been reviewed by a person.
+> An AI-written [research audit and SWOT of these asymmetries](asymmetry-audit.md) lists several this section does not cover. The author has read and accepted it; it has not been independently reviewed.
 
 So, plainly: **this is mutualism in how knowledge flows, and hierarchy in authority.** Signal runs both ways and both maps are correctable. Final authority over consequential and irreversible action stays with legitimate human oversight.
 

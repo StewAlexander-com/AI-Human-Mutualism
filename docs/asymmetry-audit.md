@@ -8,9 +8,9 @@ This page checks the main points of the argument against outside research, discl
 
 ## Disclosure
 
-- **Who did this.** An AI model (Claude, made by Anthropic) wrote this audit on 9 November 2026, in one session, at the repository author's request. No person has reviewed it.
+- **Who did this.** An AI model (Claude, made by Anthropic) wrote this audit on 9 November 2026, in one session, at the repository author's request. The author read and accepted it on 10 November 2026. No independent reviewer has checked it.
 - **Conflict of interest.** The model was running under this framework's principles as standing instructions from the author while it audited the framework. It is also an AI assessing a document about how AI should be treated. Several sources cited below have authors who work at Anthropic or were funded by it (Greenblatt et al.; Panickssery et al.; Long et al.).
-- **The three passes are not three independent checks.** One model ran all three. By the argument's own rule, a filter cannot certify itself, so this audit needs a human or differently built reviewer before it is relied on.
+- **The three passes are not three independent checks.** One model ran all three. By the argument's own rule, a filter cannot certify itself, so the author's acceptance is one check, and an independent human or differently built reviewer would be another.
 - **Depth of reading.** Outside sources were checked through abstracts, publisher pages, and summaries found by web search, not full-text reading. Sources already cited in the argument were not re-verified. Nothing was re-run; all numbers about this repository come from its own files.
 - **Images.** The same session added motion to the illustrations. The motion is decorative and explanatory. It adds no evidence.
 
