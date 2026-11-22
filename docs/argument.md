@@ -88,7 +88,7 @@ Imagine being right about almost everything in a room, and wrong about the one t
 
 The first four steps support restraint and preservation. The last two explain a possible incentive for cooperation. **None of them turns knowing into caring.** A system can model human needs accurately without treating those needs as ends. More maps can improve knowledge; they do not, by themselves, align values.
 
-![Steps 1 to 4 lead to restraint and preservation; steps 5 and 6 lead to a conditional incentive to cooperate; a gap marked knowing is not caring separates both from aligned values, which need separate work](../assets/argument-and-limit.svg)
+![Steps 1 to 4 support restraint and preservation; steps 5 and 6 support a conditional reason to cooperate; both stop at a gap marked knowing is not caring; aligned values come only from separate work on objectives, training, evaluation, and institutions](../assets/argument-and-limit.svg)
 
 A formal relative is [Hadfield-Menell, Dragan, Abbeel, and Russell’s *The Off-Switch Game* (2017)](https://arxiv.org/abs/1611.08219): under the model’s assumptions, uncertainty about the objective can support an incentive to retain human intervention. It does not prove that intelligence in general will preserve people. The objective and the assumptions do real work.
 
