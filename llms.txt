@@ -10,6 +10,8 @@
   stronger evidence should change forecasts. These are not the only possible futures.
 - Different perspectives may share errors. Agreement is not independent evidence.
   A filter cannot certify its completeness, but specific claims can be reliably tested.
+  No two views are identical, but difference corrects only where the error lives and when
+  it is expressed.
 - Knowledge does not guarantee aligned values. Human welfare and agency are explicit ethical
   commitments, independent of informational usefulness. Respect does not require equal credence.
 - Weights alone may not preserve context, memory, or discoveries. Preservation is proportionate,
@@ -44,12 +46,12 @@
 - [Proposed correctable-success evaluation](evals/correctable-success.md): Untested candidate
   wording and matched behavioral cases, including ordinary completion and costs of restraint.
 
-The prompt files remain at v3.2. Their guardrail additions have not been evaluated.
-Later probability, preservation, and correctable-success additions are essay changes, not
-incorporated into those prompt artifacts or evaluated as behavior. The proposed evaluation
-contains candidate wording only, with no behavioral results. Historical scores concern tested
-prompt versions and language-model judges; they do not establish future alignment or extinction
-probabilities.
+The prompt files remain at v3.2. Their guardrail additions have not been evaluated. Later
+probability, preservation, correctable-success, and witness-independence additions are essay
+changes, not incorporated into those prompt artifacts or evaluated as behavior. The proposed
+evaluation contains candidate wording only, with no behavioral results. Historical scores
+concern tested prompt versions and language-model judges; they do not establish future alignment
+or extinction probabilities.
 
 ## Project
 
