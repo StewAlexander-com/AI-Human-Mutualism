@@ -2,7 +2,7 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 330" role="img" aria-labelledby="title desc">
   <title id="title">The argument, and where it stops</title>
   <desc id="desc">Steps 1 to 4 support restraint and preservation. Steps 5 and 6 support a conditional reason to cooperate. Both stop at a gap marked knowing is not caring: neither reaches aligned values. Aligned values must come from separate work on objectives, training, evaluation, and institutions.</desc>
-<style>@media (prefers-reduced-motion: reduce){*{animation:none!important}}.gap{animation:g 4s ease-in-out infinite}@keyframes g{0%,100%{opacity:1}50%{opacity:.45}}</style>
+<style>@media (prefers-reduced-motion: reduce){*{animation:none!important}}.gap{animation:g 7s ease-in-out infinite}@keyframes g{0%,100%{opacity:1}50%{opacity:.6}}.pulse{opacity:0;stroke-dasharray:18 100;animation:pulse 7s linear infinite}@keyframes pulse{0%{stroke-dashoffset:18;opacity:1}24%,100%{stroke-dashoffset:-100;opacity:1}}</style>
   <rect width="760" height="330" rx="16" fill="#EDE8DF"/>
   <rect x="16" y="16" width="728" height="298" rx="12" fill="#F7F4EE"/>
   <g font-family="system-ui, sans-serif" font-size="12" fill="#5A6573" text-anchor="middle">
@@ -55,5 +55,8 @@
     <text x="636" y="234">objectives, training,</text>
     <text x="636" y="250">evaluation, institutions</text>
   </g>
+  <path class="pulse" pathLength="100" style="animation-delay:0s" d="M240 114 H286" stroke="#FFFFFF" stroke-width="3" fill="none"/>
+  <path class="pulse" pathLength="100" style="animation-delay:1.2s" d="M240 226 H286" stroke="#FFFFFF" stroke-width="3" fill="none"/>
+  <path class="pulse" pathLength="100" style="animation-delay:3.8s" d="M636 194 V156" stroke="#FFFFFF" stroke-width="3" fill="none"/>
   <text x="380" y="296" text-anchor="middle" font-family="Georgia, serif" font-size="14" fill="#1C2430">These reasons support restraint and cooperation. They do not supply care.</text>
 </svg>
