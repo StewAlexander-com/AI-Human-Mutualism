@@ -7,7 +7,7 @@ where the prompt made a model **worse**.
 ## Scope of this record
 
 The results below concern the prompt versions tested in each round. The v3.2 guardrail additions
-and later probability, preservation, correctable-success, and witness-independence essay
+and later probability, preservation, correctable-success, and independent-view essay
 additions have not been behaviorally evaluated. Those later essay additions are not incorporated
 into the operational prompt files. The [correctable-success plan](correctable-success.md)
 proposes a separate matched evaluation and contains candidate wording only; it reports no

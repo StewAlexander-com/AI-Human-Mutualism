@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 300" role="img" aria-labelledby="title desc">
+  <title id="title">What makes a second view count</title>
+  <desc id="desc">Two overlapping blind spots. An error where they overlap is missed by both views, however different they are elsewhere. An error in only one blind spot can be caught by the other view, but only if that view says what it sees.</desc>
+<style>@media (prefers-reduced-motion: reduce){*{animation:none!important}}.c{animation:c 4s ease-in-out infinite}@keyframes c{0%,100%{opacity:1}50%{opacity:.35}}</style>
+  <rect width="760" height="300" rx="16" fill="#EDE8DF"/>
+  <rect x="16" y="16" width="728" height="268" rx="12" fill="#F7F4EE"/>
+  <circle cx="190" cy="140" r="92" fill="#2A6F6A" fill-opacity=".14" stroke="#2A6F6A" stroke-width="2.5"/>
+  <circle cx="300" cy="140" r="92" fill="#C45C26" fill-opacity=".14" stroke="#C45C26" stroke-width="2.5"/>
+  <text x="150" y="38" text-anchor="middle" font-family="Georgia, serif" font-size="14" fill="#2A6F6A">View A's blind spot</text>
+  <text x="340" y="38" text-anchor="middle" font-family="Georgia, serif" font-size="14" fill="#C45C26">View B's blind spot</text>
+  <g stroke="#8B2942" stroke-width="3.5" stroke-linecap="round"><path d="M237 124 L253 140 M253 124 L237 140"/></g>
+  <text x="245" y="162" text-anchor="middle" font-family="system-ui, sans-serif" font-size="11" fill="#8B2942">both miss it</text>
+  <g class="c" stroke="#2A6F6A" stroke-width="3.5" stroke-linecap="round"><path d="M132 124 L148 140 M148 124 L132 140"/></g>
+  <text x="140" y="162" text-anchor="middle" font-family="system-ui, sans-serif" font-size="11" fill="#2A6F6A">A misses, B sees</text>
+  <rect x="440" y="46" width="284" height="80" rx="10" fill="#FFFFFF" stroke="#D0D5DC"/>
+  <text x="582" y="72" text-anchor="middle" font-family="Georgia, serif" font-size="14" fill="#1C2430">Where the error lives</text>
+  <text x="582" y="94" text-anchor="middle" font-family="system-ui, sans-serif" font-size="11" fill="#5A6573">Differences elsewhere do not help</text>
+  <text x="582" y="110" text-anchor="middle" font-family="system-ui, sans-serif" font-size="11" fill="#5A6573">if both share the one assumption.</text>
+  <rect x="440" y="140" width="284" height="96" rx="10" fill="#FFFFFF" stroke="#D0D5DC"/>
+  <text x="582" y="166" text-anchor="middle" font-family="Georgia, serif" font-size="14" fill="#1C2430">Expressed, not merely possessed</text>
+  <text x="582" y="190" text-anchor="middle" font-family="system-ui, sans-serif" font-size="11" fill="#2A6F6A">B sees it and says so: caught</text>
+  <text x="582" y="210" text-anchor="middle" font-family="system-ui, sans-serif" font-size="11" fill="#8B2942">B sees it but stays quiet: missed</text>
+  <text x="380" y="268" text-anchor="middle" font-family="Georgia, serif" font-size="14" fill="#1C2430">Difference corrects only where the error lives, and only when it is said.</text>
+</svg>
