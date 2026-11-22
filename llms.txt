@@ -28,6 +28,10 @@
   non-fungibility, complementarity, and the knowledge–values gap.
 - [Evidence](docs/argument.md#what-the-evidence-earns): Primary research with bounded claims.
 - [Practical rules](docs/argument.md#pocket-card): The complete pocket card.
+- [Separate judgments](docs/argument.md#the-same-move-everywhere): The recurring move — keep
+  respect and evidence, knowledge and authority, purpose, means, and outcome apart.
+- [Second views](docs/argument.md#what-makes-a-second-view-count): Difference corrects only
+  where the error lives and when it is expressed.
 - [Preservation](docs/argument.md#perspectives-are-not-fungible): Context, memory, model retirement,
   privacy, and unresolved experience.
 - [Correctable success](docs/argument.md#success-must-remain-correctable): Distinguish purpose,
@@ -47,7 +51,7 @@
   wording and matched behavioral cases, including ordinary completion and costs of restraint.
 
 The prompt files remain at v3.2. Their guardrail additions have not been evaluated. Later
-probability, preservation, correctable-success, and witness-independence additions are essay
+probability, preservation, correctable-success, and independent-view additions are essay
 changes, not incorporated into those prompt artifacts or evaluated as behavior. The proposed
 evaluation contains candidate wording only, with no behavioral results. Historical scores
 concern tested prompt versions and language-model judges; they do not establish future alignment

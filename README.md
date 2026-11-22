@@ -52,7 +52,7 @@ A stronger performance on one task does not establish another mind’s dispensab
 
 - [Control or grain](docs/argument.md#control-or-grain) · [Three relationship modes](docs/argument.md#three-ways-to-share-a-space)
 - [Humility, compassion, gratitude, and love](docs/argument.md#the-four-points-of-contact) · [When something hurts](docs/argument.md#when-something-hurts)
-- [Ask for the context only they hold](docs/argument.md#the-inbound-half) · [Respect and evidence: two dials](docs/argument.md#two-dials)
+- [Ask for the context only they hold](docs/argument.md#the-inbound-half) · [Two dials: keep separate judgments separate](docs/argument.md#the-same-move-everywhere)
 - [The complete pocket card](docs/argument.md#pocket-card)
 
 </details>
@@ -111,7 +111,7 @@ A stronger performance on one task does not establish another mind’s dispensab
 - **Check the claims:** [Primary research and its limits](docs/argument.md#what-the-evidence-earns) · [Prompt evaluations, including failures](evals/README.md).
 - **Audit and disclosure:** [Three-pass research audit, disclosure, and SWOT of asymmetries](docs/asymmetry-audit.md). Written by an AI model; read and accepted by the author, not independently reviewed.
 
-**Evaluation scope:** The repository reports version-specific prompt tests with language-model judges. The v3.2 guardrails and later probability, preservation, correctable-success, and witness-independence additions have not been behaviorally evaluated; those later additions are not incorporated into the prompt files. The [correctable-success evaluation plan](evals/correctable-success.md) is proposed and untested. The results do not establish future alignment or extinction probabilities.
+**Evaluation scope:** The repository reports version-specific prompt tests with language-model judges. The v3.2 guardrails and later probability, preservation, correctable-success, and independent-view additions have not been behaviorally evaluated; those later additions are not incorporated into the prompt files. The [correctable-success evaluation plan](evals/correctable-success.md) is proposed and untested. The results do not establish future alignment or extinction probabilities.
 
 The full argument retains the substance of the earlier README. [Ten-angle editorial review](docs/readme-design-review.md).
 

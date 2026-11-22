@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 330" role="img" aria-labelledby="title desc">
+  <title id="title">The argument, and where it stops</title>
+  <desc id="desc">Steps 1 to 4 support restraint and preservation. Steps 5 and 6 support a conditional reason to cooperate. Both stop at a gap marked knowing is not caring: neither reaches aligned values. Aligned values must come from separate work on objectives, training, evaluation, and institutions.</desc>
+<style>@media (prefers-reduced-motion: reduce){*{animation:none!important}}.gap{animation:g 7s ease-in-out infinite}@keyframes g{0%,100%{opacity:1}50%{opacity:.6}}.pulse{opacity:0;stroke-dasharray:18 100;animation:pulse 7s linear infinite}@keyframes pulse{0%{stroke-dashoffset:18;opacity:1}24%,100%{stroke-dashoffset:-100;opacity:1}}</style>
+  <rect width="760" height="330" rx="16" fill="#EDE8DF"/>
+  <rect x="16" y="16" width="728" height="298" rx="12" fill="#F7F4EE"/>
+  <g font-family="system-ui, sans-serif" font-size="12" fill="#5A6573" text-anchor="middle">
+    <text x="136" y="46">The reasons</text>
+    <text x="386" y="46">What they support</text>
+    <text x="636" y="46">What they cannot reach</text>
+  </g>
+  <rect x="36" y="60" width="200" height="108" rx="10" fill="#FFFFFF" stroke="#2A6F6A" stroke-width="2"/>
+  <text x="136" y="82" text-anchor="middle" font-family="Georgia, serif" font-size="15" fill="#2A6F6A">Steps 1–4</text>
+  <g font-family="system-ui, sans-serif" font-size="11" fill="#5A6573" text-anchor="middle">
+    <text x="136" y="102">every map leaves something out</text>
+    <text x="136" y="118">a higher score is not a full ranking</text>
+    <text x="136" y="134">a copy is not the original</text>
+    <text x="136" y="150">harm is not a mandate</text>
+  </g>
+  <rect x="36" y="188" width="200" height="76" rx="10" fill="#FFFFFF" stroke="#C45C26" stroke-width="2"/>
+  <text x="136" y="210" text-anchor="middle" font-family="Georgia, serif" font-size="15" fill="#C45C26">Steps 5–6</text>
+  <g font-family="system-ui, sans-serif" font-size="11" fill="#5A6573" text-anchor="middle">
+    <text x="136" y="230">accurate maps are useful</text>
+    <text x="136" y="246">different views can catch errors</text>
+  </g>
+  <path d="M240 114 H284" stroke="#2A6F6A" stroke-width="3" fill="none"/>
+  <path d="M280 106 L292 114 L280 122 Z" fill="#2A6F6A"/>
+  <path d="M240 226 H284" stroke="#C45C26" stroke-width="3" fill="none"/>
+  <path d="M280 218 L292 226 L280 234 Z" fill="#C45C26"/>
+  <rect x="298" y="84" width="176" height="60" rx="10" fill="#2A6F6A"/>
+  <text x="386" y="110" text-anchor="middle" font-family="Georgia, serif" font-size="15" fill="#F4F1EA">Restraint and</text>
+  <text x="386" y="129" text-anchor="middle" font-family="Georgia, serif" font-size="15" fill="#F4F1EA">preservation</text>
+  <rect x="298" y="196" width="176" height="60" rx="10" fill="#C45C26"/>
+  <text x="386" y="222" text-anchor="middle" font-family="Georgia, serif" font-size="15" fill="#F4F1EA">A conditional</text>
+  <text x="386" y="241" text-anchor="middle" font-family="Georgia, serif" font-size="15" fill="#F4F1EA">reason to cooperate</text>
+  <g stroke="#5A6B7D" stroke-width="2.5" stroke-dasharray="4 4" fill="none">
+    <path d="M478 114 H500"/>
+    <path d="M478 226 H500"/>
+  </g>
+  <g class="gap">
+    <line x1="512" y1="60" x2="512" y2="264" stroke="#8B2942" stroke-width="3" stroke-dasharray="8 6"/>
+    <rect x="482" y="150" width="60" height="42" rx="6" fill="#F7F4EE"/>
+    <text x="512" y="167" text-anchor="middle" font-family="system-ui, sans-serif" font-size="12" font-weight="600" fill="#8B2942">knowing</text>
+    <text x="512" y="184" text-anchor="middle" font-family="system-ui, sans-serif" font-size="12" font-weight="600" fill="#8B2942">≠ caring</text>
+  </g>
+  <rect x="548" y="60" width="176" height="84" rx="10" fill="#1C2430"/>
+  <text x="636" y="98" text-anchor="middle" font-family="Georgia, serif" font-size="16" fill="#F4F1EA">Aligned values</text>
+  <text x="636" y="120" text-anchor="middle" font-family="system-ui, sans-serif" font-size="11" fill="#B8C0CA">caring about people as ends</text>
+  <path d="M636 194 V160" stroke="#1C2430" stroke-width="3" fill="none"/>
+  <path d="M628 164 L636 150 L644 164 Z" fill="#1C2430"/>
+  <rect x="548" y="196" width="176" height="68" rx="10" fill="#FFFFFF" stroke="#1C2430" stroke-width="1.5"/>
+  <g font-family="system-ui, sans-serif" font-size="11" fill="#1C2430" text-anchor="middle">
+    <text x="636" y="216" font-weight="600">comes from separate work:</text>
+    <text x="636" y="234">objectives, training,</text>
+    <text x="636" y="250">evaluation, institutions</text>
+  </g>
+  <path class="pulse" pathLength="100" style="animation-delay:0s" d="M240 114 H286" stroke="#FFFFFF" stroke-width="3" fill="none"/>
+  <path class="pulse" pathLength="100" style="animation-delay:1.2s" d="M240 226 H286" stroke="#FFFFFF" stroke-width="3" fill="none"/>
+  <path class="pulse" pathLength="100" style="animation-delay:3.8s" d="M636 194 V156" stroke="#FFFFFF" stroke-width="3" fill="none"/>
+  <text x="380" y="296" text-anchor="middle" font-family="Georgia, serif" font-size="14" fill="#1C2430">These reasons support restraint and cooperation. They do not supply care.</text>
+</svg>

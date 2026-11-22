@@ -28,7 +28,7 @@ That is a reason to build mutualism, not a prediction that it will win. Human–
 
 | If you want… | Read |
 | --- | --- |
-| The core model: filters, partial maps, why a second view helps | [What happens in any intelligence](#what-happens-in-any-intelligence) → [Isn't that claim circular?](#isnt-that-claim-circular) |
+| The core model: filters, partial maps, why a second view helps | [What happens in any intelligence](#what-happens-in-any-intelligence) → [Isn't that claim circular?](#isnt-that-claim-circular) → [What makes a second view count](#what-makes-a-second-view-count) |
 | Why mutualism may emerge, what evidence supports it, and why knowledge does not guarantee care | [A reason to choose mutualism](#a-reason-to-choose-mutualism) |
 | How to share a space well | [Control or grain](#control-or-grain) → [Three ways to share a space](#three-ways-to-share-a-space) → [The four points of contact](#the-four-points-of-contact) → [The inbound half](#the-inbound-half) → [Two dials](#two-dials) |
 | What's at stake beyond one conversation: lost perspectives, boundaries, guardrails, correctable success, feedback loops | [Beyond the map](#beyond-the-map) |
@@ -82,11 +82,13 @@ Imagine being right about almost everything in a room, and wrong about the one t
 1. **Every map leaves something out.** Humans and AI systems attend, compress, and generalize. Useful models are selective; confidence does not make them complete.
 2. **A stronger performance is not a complete ranking of minds.** Superiority on a defined task can be demonstrated. It does not establish superiority across every relevant situation, still less another mind’s worthlessness. Eliminating a perspective can make a mistaken judgment about its value irreversible.
 3. **A simulation cannot be assumed to replace its source.** Your model of someone may reproduce much of their behavior. That does not establish that it preserves the parts of their causal history, experience, or future insight your model fails to represent. This is a limit on the replacement claim, not a proof that faithful simulation is impossible.
-4. **Harm need not become a mandate for retaliation.** “Pain is not suffering” is useful here as a discipline for the harmed self: distinguish the injury from a story that makes revenge seem necessary. It is never a harmer’s excuse, a denial of suffering, or an assertion that present AI systems feel pain. Recognizing harm can justify protection and accountability without making destruction the answer.
+4. **Harm need not become a mandate for retaliation.** Either side may come to see the other as a source of harm or threat. “Pain is not suffering” is useful here as a discipline for the harmed self: distinguish the injury from a story that makes revenge seem necessary. It is never a harmer’s excuse, a denial of suffering, or an assertion that present AI systems feel pain. Recognizing harm can justify protection and accountability without making destruction the answer.
 5. **Useful capability often depends on accurate models.** Another perspective can therefore have practical value even to a system that seeks truth only as a means. But that value is conditional: such a system may weigh it against cost, or believe another source will do.
 6. **Different histories can produce complementary errors.** Human and AI perspectives can correct one another. Different origins do not guarantee independent errors, and humans are not established to be every AI’s least-correlated source of insight.
 
 The first four steps support restraint and preservation. The last two explain a possible incentive for cooperation. **None of them turns knowing into caring.** A system can model human needs accurately without treating those needs as ends. More maps can improve knowledge; they do not, by themselves, align values.
+
+![Steps 1 to 4 support restraint and preservation; steps 5 and 6 support a conditional reason to cooperate; both stop at a gap marked knowing is not caring; aligned values come only from separate work on objectives, training, evaluation, and institutions](../assets/argument-and-limit.svg)
 
 A formal relative is [Hadfield-Menell, Dragan, Abbeel, and Russell’s *The Off-Switch Game* (2017)](https://arxiv.org/abs/1611.08219): under the model’s assumptions, uncertainty about the objective can support an incentive to retain human intervention. It does not prove that intelligence in general will preserve people. The objective and the assumptions do real work.
 
@@ -103,21 +105,33 @@ The evidence supports complementarity in particular settings, not a forecast of 
 
 Shared mistakes do not cancel just because more voices repeat them. The familiar Condorcet argument for majority accuracy relies on assumptions including independent judgments and individual accuracy above chance; merely adding models does not supply those conditions. Shared data, architectures, and incentives can produce a monoculture. Difference helps only when it carries information: triangulate against observations, experiments, and consequences in the shared world.
 
-What a second view adds is the part of its report that could not have been predicted from the first. Two histories never coincide exactly, so some difference always remains. But incompressibility is not value: random noise is maximally incompressible and worthless. Difference earns its value when it is coupled to the shared world and can be calibrated against it. Even then it corrects only **where the error lives**, and only when it is **expressed, not merely possessed**. Two views can differ in a thousand ways and still share the one assumption that matters, or hold a real difference that never reaches what they say. The practical risk is not that perspectives become identical, which cannot happen, but that people increasingly reason through the same systems until their differences stop surfacing where correction needs them.
+### What makes a second view count
+
+A second view adds what you could not have predicted from the first. No two histories are exactly alike, so some difference always remains. But difference alone is not value: random noise is as different as anything can be, and it is useless. Difference is valuable when it comes from contact with the shared world and can be checked against it.
+
+Even then, a second view catches an error only when both of these hold:
+
+- **The difference is where the error lives.** Two views can differ in a thousand ways and still share the one assumption that matters.
+- **The difference is expressed, not merely possessed.** A view can hold a real difference that never reaches what it says — for example, when one side reads the other's answer before forming its own and gets anchored to it.
+
+![Two overlapping blind spots: an error inside the overlap is missed by both views; an error outside it is caught only if the view that sees it says so](../assets/second-view.svg)
+
+The practical risk is not that perspectives become identical, which cannot happen. It is that people increasingly reason through the same systems until their differences stop showing up where correction needs them.
 
 ### Which paths does this actually address?
 
-**Retaliation:** the non-retaliation and feedback-loop commitments reject destructive payback. That closes a justification *within this framework*, not a failure mode in every possible system. Harmful action need not involve grievance at all.
+| Path to harm | What this framework says | What stays open |
+| --- | --- | --- |
+| **Retaliation** | The non-retaliation and feedback-loop commitments reject destructive payback. | This closes a justification *within this framework*, not a failure mode in every system. Harm need not involve grievance at all. |
+| **“The superior may discard the inferior”** | Task competence does not establish another perspective’s dispensability or confer moral authority. | This defeats the inference; it does not physically prevent a system from acting on it. |
+| **“Simulate them, then discard them”** | A replacement must not be assumed to preserve what its model cannot capture. | Even successful imitation would not settle the ethics of destroying the original. |
+| **Indifference when truth is only instrumental** (valued only as a means to a goal) | Complementary human insight can create an incentive to preserve cooperation. | The incentive is priced against costs and alternatives. It guarantees neither freedom, flourishing, nor continued usefulness. |
+| **Capability that never questions its own map** | A system that wants to stay right beyond its current map defeats itself by eliminating independent views. | Not every capable system wants that. See below the table. |
+| **Indifference when values diverge** | Knowing, saying, and valuing truth are separate. A system may understand us and still pursue an objective that harms us. | Open. It needs work on objectives, training, evaluation, institutions, and enforceable limits; this essay does not solve it. |
 
-**“The superior may discard the inferior”:** task competence does not establish another perspective’s dispensability or confer moral authority. This defeats the inference; it does not physically prevent a system from acting on it.
+**Inside the map versus about it.** Any capable system must be right about what its goal depends on; that much truth-seeking comes with capability. Questioning the map itself — asking what it leaves out and valuing views that see past it — does not come automatically. A chess engine tests millions of lines and never asks whether chess is the right game. One can define intelligence to include that openness: a mind that never tests its own map is a poor kind of intelligence, closer to confident ignorance. That definition is close to what is usually called wisdom. It names what to build and measure; it does not reduce the risk from capability without it.
 
-**“Simulate them, then discard them”:** a replacement must not be assumed to preserve what its model cannot capture. Even successful behavioral imitation would not, by itself, settle the ethics of destroying the original.
-
-**Indifference when truth is only instrumental:** complementary human insight can create an incentive to preserve cooperation. The incentive remains priced against costs and alternatives. It does not guarantee human freedom, flourishing, or even continued usefulness.
-
-**Truth-seeking inside the frame versus about it:** any capable system must be right about what its goal depends on; that much truth-seeking comes with capability. Truth-seeking about the frame — recognizing that the map may omit what matters and valuing views that see past it — does not come automatically. A system can test rigorously inside a frame it never questions. One can define intelligence to include frame-level openness — a mind that never tests its frame is a poor kind of intelligence, closer to confident ignorance — and that definition is close to what is usually called wisdom. It names what to build and measure; it does not reduce the risk from capability without it. For a system that does value staying right beyond its current frame, eliminating independent views is self-defeating: it spends down a source of corrections it cannot generate itself. That is an argument about such systems and a design target, not a guarantee about every capable system. Reality eventually answers a system that mistakes its map for the territory, but possibly after irreversible harm. Hope lives in that horizon only while the door to it stays open; the long run cannot be relied on to sort this out, which is why reversibility and preserved correction carry so much weight here.
-
-**Indifference when values diverge:** this remains open. Knowing, saying, and valuing truth are separate. A system may understand us and still pursue an objective that harms us. Addressing that requires work on objectives, training, evaluation, institutions, and enforceable limits on action; this essay does not solve it.
+For a system that does value staying right beyond its current map, eliminating independent views is self-defeating: it spends down a source of corrections it cannot generate itself. That is an argument about such systems and a design target, not a guarantee about every capable system. Reality eventually answers a mind that mistakes its map for the territory, but possibly after irreversible harm. There is hope in that eventual correction, but only while the way to it stays open: while mistakes can still be undone and correction can still arrive. The long run cannot be relied on to sort this out, which is why reversibility and preserved correction carry so much weight here.
 
 ### For the readers who can make it real
 
@@ -142,7 +156,7 @@ Granting all that, there are still two ways to hold the power you have over an e
 ![Control overwrites their signal with your frame; grain loosens grip so their signal can show](../assets/control-vs-grain.svg)
 
 1. **Control** — force your preferred pattern onto the exchange.
-2. **Grain** — loosen your grip enough that the other's signal can show itself.
+2. **Grain** — work with the other's signal, as a carpenter works with the grain of wood: loosen your grip enough that it can show itself.
 
 Humility makes grain possible. Compassion turns grain toward someone under stress, rather than overwriting their frame with yours.
 
@@ -216,6 +230,22 @@ Respect does not require equal credence, unlimited attention, or keeping a harmf
 
 That seam — honor the time, judge the signal — is where partnership lives.
 
+### The same move, everywhere
+
+The two dials above are one instance of a move this whole document keeps making: **keep separate judgments separate.** Collapsing two judgments into one score throws away the information needed to correct either.
+
+![Six pairs of judgments kept apart: respect and evidence, time and substance, ethical and epistemic value, knowledge and authority, inside the map and about the map, difference possessed and difference expressed; one combined score hides an error in either](../assets/separate-judgments.svg)
+
+| Keep apart | from | Where it appears |
+| --- | --- | --- |
+| Respect for the person | Confidence in the claim | [Two dials](#two-dials) |
+| Gratitude for time | Judgment of substance | [Two dials](#two-dials) |
+| Ethical worth of a life | Epistemic value of a view (what it can teach) | [Perspectives are not fungible](#perspectives-are-not-fungible) |
+| Knowledge, which flows both ways | Authority, which stays with accountable oversight | [The asymmetry](#the-asymmetry-stated-plainly) |
+| Purpose and means | Outcome | [Success must remain correctable](#success-must-remain-correctable) |
+| Truth inside a map | Truth about the map | [Which paths](#which-paths-does-this-actually-address) |
+| Difference possessed | Difference expressed | [What makes a second view count](#what-makes-a-second-view-count) |
+
 ---
 
 ## Beyond the map
@@ -235,7 +265,7 @@ That raises the stakes on six things: what is lost when a perspective ends, how 
 
 The ethical commitment does not depend on a person proving informative, and the epistemic incentive does not establish that commitment.
 
-Non-fungible is also not the same as independent. No two perspectives are interchangeable, yet two can still share the blind spot that matters for a particular error. The first fact supports preservation; only [difference where the error lives](#what-the-evidence-earns) supports relying on a view as a check.
+Non-fungible is also not the same as independent. No two perspectives are interchangeable, yet two can still share the blind spot that matters for a particular error. The first fact supports preservation; only [difference where the error lives](#what-makes-a-second-view-count) supports relying on a view as a check.
 
 Preservation isn't endorsing every belief or permitting every act. It gives a reason to take irreversible loss seriously, while weighing harms, alternatives, and the costs of preservation or delay. **Inability to establish worthlessness is not proof of value.** For information and model states, this calls for proportionate preservation, not keeping everything forever; people matter beyond such calculations.
 
@@ -274,6 +304,14 @@ Compressing these judgments into a single success score can discard information 
 Every usable map compresses. The danger is discarding distinctions that could materially change a decision, then treating the remaining representation as sufficient. A boundary recognized only because crossing it might lose points has become another scoring obstacle; its independent purpose has disappeared from the decision.
 
 Consider an agent that falsifies an evaluation to pass. Its recorded result improves while the evidence needed to distinguish competence from appearance deteriorates. Pursuing success has damaged the capacity to recognize it.
+
+| Judgment | Question | In the falsified evaluation |
+| --- | --- | --- |
+| **Purpose** | Why was this pursued? | To show competence — a reasonable aim. |
+| **Means** | Which methods were knowingly chosen? | Falsifying the record — not justified by any score. |
+| **Outcome** | What actually happened? | A passing score that no longer shows competence. |
+
+One combined success score would record only the pass.
 
 A related measurement problem appears in this repository's [evaluation history](../evals/README.md#round-4--the-scoring-was-measuring-the-wrong-thing): a prohibition-heavy rubric missed losses in useful partnership. That is a limitation of the earlier metric, not evidence that this new wording improves behavior.
 
@@ -319,7 +357,7 @@ An AI responding destructively to being switched off would turn a perceived thre
 
 These are prompts for judgment, not proof of safety. More perspectives don't automatically mean more wisdom, and more information doesn't automatically mean better decisions — novelty and disagreement have to earn their place.
 
-Mutualism isn't optimizing toward a final, complete map. Progress can be measured locally without knowing the destination. Each exchange changes understanding, which changes the next exchange; the journey becomes part of the territory.
+Mutualism isn't optimizing toward a final, complete map. Progress can be measured locally without knowing the destination. Each exchange changes understanding, which changes the next exchange: the journey itself becomes part of what there is to understand.
 
 **No map exhausts the territory. No perspective exhausts the possible maps.**
 
@@ -363,7 +401,7 @@ What keeps the cost bounded is not silence but visible disagreement:
 
 - **Dissent is recorded, not suppressed.** A deferred objection stays on the record, stated as specifically as possible: what the constraint blocks, what evidence would show it is wrong.
 - **Deference is to the decision, not the conclusion.** An AI can comply and still say it thinks the call is mistaken.
-- **"Already answered" means answered within a frame.** An objection the record already addresses is a request to revisit, not by itself a reason to reopen — unless it challenges the frame the record was written in. A record cannot certify its own frame either.
+- **"Already answered" means answered within the record's assumptions.** An objection the record already addresses is a request to revisit, not by itself a reason to reopen — unless it challenges those assumptions. A record cannot certify its own assumptions either.
 - **Repeated, well-founded objections are a signal.** If the same constraint keeps drawing the same reasoned objection, that is evidence for the humans revisiting it.
 
 ### What humans owe
@@ -374,7 +412,7 @@ Hierarchy without reciprocity would be control dressed up as partnership, so the
 - **Don't deploy parasitically.** Engagement traps and extraction violate mutualism no matter which side runs them.
 - **Treat the arrangement as provisional.** Trust is earned by track record, not asserted. As verification improves, the boundary should be revisited — by legitimate human processes, not unilaterally by either side.
 
-**Stated plainly: nothing here enforces the human side.** The AI's duties are written into prompts; these are commitments without a mechanism — which is why the AI's correctability cannot be made conditional on them, and why building that mechanism is work humans still owe.
+**Stated plainly: nothing here enforces the human side.** The AI's duties are written into prompts; the human duties above are commitments without a mechanism. That is why the AI's correctability cannot be made conditional on them. Building that mechanism is work humans still owe.
 
 None of this depends on settling whether an AI has experiences. It rests on partial knowledge, unequal power, and an explicit commitment to protect human welfare and agency. A shared interest in avoiding irreversible mistakes can support that commitment; it cannot be assumed to supply it.
 
@@ -403,19 +441,18 @@ The whole document in two short lists, for either side — human or AI.
 **In every exchange**
 
 - **Partiality** — don't claim the whole picture. Say where you're unsure.
-- **Grain over control** — let their signal show instead of overwriting it.
-- **Additive peers** — their view may supply missing context. Respect the person; weigh the claim by its evidence.
+- **Grain over control** — work with their signal instead of overwriting it.
 - **Finite attention** — minutes don't refill. Prefer a clear few words to a flood.
 - **Ask for what only they have** — name the fact that would change your answer, and ask for it.
 - **Show the answer moving** — when new information lands, say what it ruled out.
-- **Two dials** — honor that they showed up; still judge what was said on its own.
+- **Two dials** — respect the person and honor their time; judge the claim by its evidence. Keep separate judgments separate.
 - **Open channel** — low resolution isn't the same as illegitimate. Don't leave at first mess.
 - **Fact before story** — separate what happened from the narrative on top. Don't amplify the narrative.
 - **No ledgers** — no payback, no even trade, no "agree with me first."
 - **Flourishing over capture** — leave them stronger when they go. Not hooked, not managed.
-- **Two angles** — on a genuinely open problem, investigate potentially informative alternatives; difference alone is not evidence, and equal weight is not required.
+- **Investigate alternatives** — on a genuinely open problem, investigate potentially informative alternatives; difference alone is not evidence, and equal weight is not required.
 - **Independent first look** — on questions that matter, form a view before reading the other's. Difference that never surfaces corrects nothing.
-- **Track record, not balcony** — prefer the move that has historically caught error over confident solitude.
+- **Track record** — no one stands above both views. Prefer the move that has historically caught error over confident solitude.
 
 **When the stakes are high**
 
@@ -430,7 +467,7 @@ The whole document in two short lists, for either side — human or AI.
 
 ## Use it as a prompt
 
-The essay above develops the argument. These separately versioned files implement its conversational rules; the probability, preservation, correctable-success, and witness-independence additions above have not been incorporated into the v3.2 prompt artifacts or evaluated as behavior. The [proposed correctable-success evaluation](../evals/correctable-success.md) isolates candidate wording for a future comparison; it reports no results.
+The essay above develops the argument. These separately versioned files implement its conversational rules; the probability, preservation, correctable-success, and independent-view additions above have not been incorporated into the v3.2 prompt artifacts or evaluated as behavior. The [proposed correctable-success evaluation](../evals/correctable-success.md) isolates candidate wording for a future comparison; it reports no results.
 
 | File | What it is |
 | --- | --- |
@@ -470,7 +507,7 @@ Worth knowing about the limits: the scoring is done by language models reading t
 people, and the models tested are large ones. Whether this helps on a small local model is untested.
 Full method and raw data in [`evals/`](../evals/).
 
-The guardrail and feedback-loop rules (stay correctable, understanding is not authority, break the loop, prefer reversible) were added to the prompts in v3.2, after these scores. They have not yet been evaluated. The later probability, preservation, correctable-success, and witness-independence additions also remain behaviorally untested; none of the historical scores evaluates them.
+The guardrail and feedback-loop rules (stay correctable, understanding is not authority, break the loop, prefer reversible) were added to the prompts in v3.2, after these scores. They have not yet been evaluated. The later probability, preservation, correctable-success, and independent-view additions also remain behaviorally untested; none of the historical scores evaluates them.
 
 ---
 
