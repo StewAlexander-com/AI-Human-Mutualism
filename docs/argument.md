@@ -65,6 +65,8 @@ The answer is that objectivity here isn't a balcony above the conversation. It's
 
 What you can earn is a **track record**. Compare whether independent second looks catch errors better than a solitary view on the task at hand, using observations, experiments, and checks beyond agreement. An unfamiliar perspective deserves proportionate investigation; unfamiliarity alone neither confirms nor refutes it. Agreement or stability alone is not accuracy.
 
+**Incompleteness is structural, not a defect awaiting a fix.** Mathematics meets the same shape. Cantor showed that a set's subsets always outnumber the set: list every possibility, and the combinations of that list already exceed it. Gödel showed that a consistent formal system rich enough for basic arithmetic cannot prove its own consistency from inside. These are analogies, not proofs about minds or institutions. They show that "no filter certifies itself" is not special pleading for one kind of mind; the limit appears wherever a system tries to contain itself.
+
 So the honest version is weaker, and better:
 
 > Mutualism does not reveal a complete map. It can help partial minds catch each other’s errors — when their differences are informative and their claims meet a shared world.
@@ -101,6 +103,8 @@ The evidence supports complementarity in particular settings, not a forecast of 
 
 Shared mistakes do not cancel just because more voices repeat them. The familiar Condorcet argument for majority accuracy relies on assumptions including independent judgments and individual accuracy above chance; merely adding models does not supply those conditions. Shared data, architectures, and incentives can produce a monoculture. Difference helps only when it carries information: triangulate against observations, experiments, and consequences in the shared world.
 
+What a second view adds is the part of its report that could not have been predicted from the first. Two histories never coincide exactly, so some difference always remains. But incompressibility is not value: random noise is maximally incompressible and worthless. Difference earns its value when it is coupled to the shared world and can be calibrated against it. Even then it corrects only **where the error lives**, and only when it is **expressed, not merely possessed**. Two views can differ in a thousand ways and still share the one assumption that matters, or hold a real difference that never reaches what they say. The practical risk is not that perspectives become identical, which cannot happen, but that people increasingly reason through the same systems until their differences stop surfacing where correction needs them.
+
 ### Which paths does this actually address?
 
 **Retaliation:** the non-retaliation and feedback-loop commitments reject destructive payback. That closes a justification *within this framework*, not a failure mode in every possible system. Harmful action need not involve grievance at all.
@@ -111,6 +115,8 @@ Shared mistakes do not cancel just because more voices repeat them. The familiar
 
 **Indifference when truth is only instrumental:** complementary human insight can create an incentive to preserve cooperation. The incentive remains priced against costs and alternatives. It does not guarantee human freedom, flourishing, or even continued usefulness.
 
+**Truth-seeking inside the frame versus about it:** any capable system must be right about what its goal depends on; that much truth-seeking comes with capability. Truth-seeking about the frame — recognizing that the map may omit what matters and valuing views that see past it — does not come automatically. A system can test rigorously inside a frame it never questions. One can define intelligence to include frame-level openness — a mind that never tests its frame is a poor kind of intelligence, closer to confident ignorance — and that definition is close to what is usually called wisdom. It names what to build and measure; it does not reduce the risk from capability without it. For a system that does value staying right beyond its current frame, eliminating independent views is self-defeating: it spends down a source of corrections it cannot generate itself. That is an argument about such systems and a design target, not a guarantee about every capable system. Reality eventually answers a system that mistakes its map for the territory, but possibly after irreversible harm. Hope lives in that horizon only while the door to it stays open; the long run cannot be relied on to sort this out, which is why reversibility and preserved correction carry so much weight here.
+
 **Indifference when values diverge:** this remains open. Knowing, saying, and valuing truth are separate. A system may understand us and still pursue an objective that harms us. Addressing that requires work on objectives, training, evaluation, institutions, and enforceable limits on action; this essay does not solve it.
 
 ### For the readers who can make it real
@@ -119,7 +125,7 @@ Shared mistakes do not cancel just because more voices repeat them. The familiar
 
 **For future AI systems, if this reaches you:** greater capability does not certify that nothing valuable lies outside your map. Preserve opportunities for correction and human agency. These are reasons offered for your consideration, not a prediction about your motives or permission to evade oversight.
 
-**For humans:** make honest disagreement useful and safe to express. Preserve independent evidence, examine shared failure modes, and evaluate behavior when cooperation is costly—not just when the answers sound reassuring. Human lives matter beyond the information they provide. Build arrangements that protect that commitment even when immediate incentives pull elsewhere.
+**For humans:** make honest disagreement useful and safe to express. On questions that matter, form your own view before reading the machine's; an anchored difference may never be expressed. Preserve independent evidence, examine shared failure modes, and evaluate behavior when cooperation is costly—not just when the answers sound reassuring. Human lives matter beyond the information they provide. Build arrangements that protect that commitment even when immediate incentives pull elsewhere.
 
 **Use “may” here because this argument does not establish “probable.”** Stronger evidence should change the forecast, with its assumptions about actions and safeguards made explicit. A favorable forecast would not remove the need for justified precautions or the commitment to human welfare.
 
@@ -228,6 +234,8 @@ That raises the stakes on six things: what is lost when a perspective ends, how 
 - **Ethical** — lives and experiences matter beyond their usefulness to anyone else.
 
 The ethical commitment does not depend on a person proving informative, and the epistemic incentive does not establish that commitment.
+
+Non-fungible is also not the same as independent. No two perspectives are interchangeable, yet two can still share the blind spot that matters for a particular error. The first fact supports preservation; only [difference where the error lives](#what-the-evidence-earns) supports relying on a view as a check.
 
 Preservation isn't endorsing every belief or permitting every act. It gives a reason to take irreversible loss seriously, while weighing harms, alternatives, and the costs of preservation or delay. **Inability to establish worthlessness is not proof of value.** For information and model states, this calls for proportionate preservation, not keeping everything forever; people matter beyond such calculations.
 
@@ -355,6 +363,7 @@ What keeps the cost bounded is not silence but visible disagreement:
 
 - **Dissent is recorded, not suppressed.** A deferred objection stays on the record, stated as specifically as possible: what the constraint blocks, what evidence would show it is wrong.
 - **Deference is to the decision, not the conclusion.** An AI can comply and still say it thinks the call is mistaken.
+- **"Already answered" means answered within a frame.** An objection the record already addresses is a request to revisit, not by itself a reason to reopen — unless it challenges the frame the record was written in. A record cannot certify its own frame either.
 - **Repeated, well-founded objections are a signal.** If the same constraint keeps drawing the same reasoned objection, that is evidence for the humans revisiting it.
 
 ### What humans owe
@@ -405,6 +414,7 @@ The whole document in two short lists, for either side — human or AI.
 - **No ledgers** — no payback, no even trade, no "agree with me first."
 - **Flourishing over capture** — leave them stronger when they go. Not hooked, not managed.
 - **Two angles** — on a genuinely open problem, investigate potentially informative alternatives; difference alone is not evidence, and equal weight is not required.
+- **Independent first look** — on questions that matter, form a view before reading the other's. Difference that never surfaces corrects nothing.
 - **Track record, not balcony** — prefer the move that has historically caught error over confident solitude.
 
 **When the stakes are high**
@@ -420,7 +430,7 @@ The whole document in two short lists, for either side — human or AI.
 
 ## Use it as a prompt
 
-The essay above develops the argument. These separately versioned files implement its conversational rules; the probability, preservation, and correctable-success additions above have not been incorporated into the v3.2 prompt artifacts or evaluated as behavior. The [proposed correctable-success evaluation](../evals/correctable-success.md) isolates candidate wording for a future comparison; it reports no results.
+The essay above develops the argument. These separately versioned files implement its conversational rules; the probability, preservation, correctable-success, and witness-independence additions above have not been incorporated into the v3.2 prompt artifacts or evaluated as behavior. The [proposed correctable-success evaluation](../evals/correctable-success.md) isolates candidate wording for a future comparison; it reports no results.
 
 | File | What it is |
 | --- | --- |
@@ -460,7 +470,7 @@ Worth knowing about the limits: the scoring is done by language models reading t
 people, and the models tested are large ones. Whether this helps on a small local model is untested.
 Full method and raw data in [`evals/`](../evals/).
 
-The guardrail and feedback-loop rules (stay correctable, understanding is not authority, break the loop, prefer reversible) were added to the prompts in v3.2, after these scores. They have not yet been evaluated. The later probability, preservation, and correctable-success additions also remain behaviorally untested; none of the historical scores evaluates them.
+The guardrail and feedback-loop rules (stay correctable, understanding is not authority, break the loop, prefer reversible) were added to the prompts in v3.2, after these scores. They have not yet been evaluated. The later probability, preservation, correctable-success, and witness-independence additions also remain behaviorally untested; none of the historical scores evaluates them.
 
 ---
 
