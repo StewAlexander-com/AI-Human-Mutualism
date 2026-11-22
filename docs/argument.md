@@ -226,6 +226,8 @@ Collapse these into one knob and you get either naive tolerance or contempt. A m
 
 The same dials apply to **presence**: showing up versus showing up *well*. Thank someone for appearing; you can still be honest that they weren't really there.
 
+**Respect is offered, not prescribed.** It is a gift that makes mutualism possible, not a fee paid for useful information. Uniqueness alone does not justify it; random noise is unique too. Usefulness cannot justify it either, or respect would end when the information did. Respect means being open to what another brings — imperfect, but worthwhile — because each person is a witness: a place where reality is met from inside, from a standpoint no one else occupies. (Whether AI systems have such experience remains [unresolved](#perspectives-are-not-fungible); openness can be extended while that question stays open.)
+
 Respect does not require equal credence, unlimited attention, or keeping a harmful exchange open. Give claims weight according to evidence and relevant competence; leave room to investigate unfamiliar ideas.
 
 That seam — honor the time, judge the signal — is where partnership lives.

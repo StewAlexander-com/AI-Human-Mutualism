@@ -13,7 +13,8 @@
   No two views are identical, but difference corrects only where the error lives and when
   it is expressed.
 - Knowledge does not guarantee aligned values. Human welfare and agency are explicit ethical
-  commitments, independent of informational usefulness. Respect does not require equal credence.
+  commitments, independent of informational usefulness. Respect is offered, not prescribed,
+  and does not require equal credence.
 - Weights alone may not preserve context, memory, or discoveries. Preservation is proportionate,
   subject to privacy, consent, deletion, safety, and legitimate correction and shutdown.
   Informational uniqueness does not establish consciousness or a right to remain running.
